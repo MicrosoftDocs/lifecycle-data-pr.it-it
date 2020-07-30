@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Application Virtualization hosting 4,6 per desktop di Windows
+  description: Microsoft Application Virtualization hosting 4,6 for Windows Desktops segue il criterio del ciclo di vita fisso.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 21ed557cd6333e43a274796a3b25791c0d7f96cd
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "824820"
+name: Microsoft Application Virtualization hosting 4,6 per desktop di Windows
+summary: >+
+  Microsoft Application Virtualization hosting 4,6 for Windows Desktops segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+
+
+  Si applica alle edizioni seguenti: per i desktop di Windows
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/27/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 3
+  startDate: 12/02/2013
+  endDate: 07/14/2020
+- version: Service Pack 2
+  startDate: 10/01/2012
+  endDate: 01/13/2015
+- version: Service Pack 1
+  startDate: 01/26/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 05/27/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Links \n* [Informazioni sul prodotto e sulla migrazione](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Criteri del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Poiché il client App-V 4,6 utilizza il server App-V 4,5, il server App-V 4,5 continuerà a essere supportato in base alle date del ciclo di vita di App-V 4,6 quando sono in uso con il client App-V 4,6 supportato.\n\n## <a name=\"editions\"></a>Edizioni \n* per i desktop di Windows"
