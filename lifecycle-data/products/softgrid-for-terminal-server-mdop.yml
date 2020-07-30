@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: SoftGrid per Terminal Server (MDOP)
+  description: SoftGrid per Terminal Server (MDOP) segue il criterio del ciclo di vita fisso.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 678dd6057802afee1e92f8bba4296ee1b620a97d
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "824120"
+name: SoftGrid per Terminal Server (MDOP)
+summary: >+
+  SoftGrid per Terminal Server (MDOP) segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n## <a name=\"links\"></a>Links \n* [Domande frequenti sul ciclo di vita-generale](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Esclude le versioni precedentemente desupportate. Il supporto per questo prodotto è soggetto ai termini della sua acquisizione."
