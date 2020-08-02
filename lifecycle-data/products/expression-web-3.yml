@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Espressione 3
+  description: L'espressione 3 segue il criterio del ciclo di vita fisso.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9544cb1ac337a36e0e9d12b4afde25d392bdd767
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "824186"
+name: Espressione 3
+summary: >+
+  L'espressione 3 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+
+
+  Si applica alle edizioni seguenti: design, encoder, studio, Web
+
+products:
+- expression
+policyType: fixed
+supportDates:
+  start: 10/19/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 10/19/2009
+  endDate: 01/14/2020
+content: "\n\n> [!NOTE]\n> La data di inizio per Expression Design 3 è il 19 novembre 2009. \n\n## <a name=\"editions\"></a>Edizioni \n* Struttura\n* Encoder\n* Studio\n* Web"
