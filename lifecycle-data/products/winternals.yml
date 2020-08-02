@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Winternals
+  description: Winternals segue il criterio del ciclo di vita fisso.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c53494de8a74f1c533ad0de10eff126605f0d85a
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "824251"
+name: Winternals
+summary: >+
+  Winternals segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+
+
+  Si applica alle edizioni seguenti: l'amministratore Pak 5,0, Defrag Manager 3,0, Protection Manager 2,0, Recovery Manager 3,0
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+  extendedEnd: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n## <a name=\"links\"></a>Links \n* [Criteri del ciclo di vita per acquisizioni Microsoft](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Esclude le versioni precedentemente desupportate. Il supporto per questo prodotto è soggetto ai termini della sua acquisizione.\n\n## <a name=\"editions\"></a>Edizioni \n* Pak 5,0 dell'amministratore\n* Defrag Manager 3,0\n* Protection Manager 2,0\n* Recovery Manager 3,0"
