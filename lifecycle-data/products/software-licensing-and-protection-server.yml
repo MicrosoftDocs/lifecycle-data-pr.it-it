@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Server di protezione e licenze software
+  description: Software Licensing and Protection Server segue il criterio del ciclo di vita fisso.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "824138"
+name: Server di protezione e licenze software
+summary: >
+  Software Licensing and Protection Server segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+
+
+  Si applica alle edizioni seguenti: Enterprise, standard
+
+
+  > [!IMPORTANT]
+
+  > A causa della dismissione di Software Licensing and Protection Server (SLP), Microsoft ha supportato SLP fino al 24 settembre 2009.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2007
+  end: 09/24/2009
+  extendedEnd: 09/24/2009
+releases:
+- version: Original Release
+  startDate: 12/30/2007
+  endDate: 01/09/2018
+content: "\n## <a name=\"links\"></a>Links \n* [Server di protezione e licenze software (SLP)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Grandi aziende\n* Standard"

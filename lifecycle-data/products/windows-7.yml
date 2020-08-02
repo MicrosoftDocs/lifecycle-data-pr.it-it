@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 7
+  description: Windows 7 segue il criterio del ciclo di vita fisso.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "824111"
+name: Windows 7
+summary: "Windows 7 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .\n\nQuesto vale per le edizioni seguenti: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N\n\n> [!IMPORTANT]\n> Il supporto per questo prodotto è terminato. Vedere le indicazioni sulla migrazione seguenti. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Extended Security Update Year 3*
+  startDate: 01/11/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2*
+  startDate: 01/12/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1*
+  startDate: 01/14/2020
+  endDate: 01/12/2021
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "> [!TIP]\n> ' * Gli aggiornamenti della sicurezza estesa (UDE) sono disponibili tramite programmi di contratti multilicenza specifici per Windows 7 Professional, Enterprise e Professional per i sistemi embedded Editions di questo prodotto, fino a un massimo di tre anni oltre la fine del supporto. Per ulteriori informazioni, contattare il team di account o partner Microsoft. \n\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](https://support.microsoft.com/help/4057281)\n* [Aggiornamento da Windows 7 a Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Programma di aggiornamento della sicurezza esteso (UDE)](/lifecycle/faq/extended-security-updates)\n* [Criteri del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Grandi aziende\n* Enterprise N\n* Home Basic\n* Home Premium\n* Home Premium N\n* Professional\n* Professionale per sistemi incorporati\n* N professionale\n* Avvio\n* Starter N\n* Ultimate\n* Ultimate per sistemi incorporati\n* Ultimo N"
