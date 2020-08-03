@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2012 R2
+  description: Windows Server 2012 R2 segue il criterio del ciclo di vita fisso.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 35b2c5868387b3f6aa94bc41d2674c8ea7286aa6
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "856771"
+name: Windows Server 2012 R2
+summary: >+
+  Windows Server 2012 R2 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+
+
+  Si applica alle edizioni seguenti: Datacenter, Essentials, per sistemi incorporati, Foundation, standard
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/25/2013
+  end: 10/09/2018
+  extendedEnd: 10/10/2023
+releases:
+- version: Original Release
+  startDate: 11/25/2013
+  endDate: 10/10/2023
+content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Il supporto principale e esteso per questo prodotto è stato esteso in modo da offrire ai clienti la sequenza temporale standard per la transizione del ciclo di vita.\n\n## <a name=\"editions\"></a>Edizioni \n* Datacenter\n* Essentials\n* per i sistemi incorporati\n* Foundation\n* Standard"

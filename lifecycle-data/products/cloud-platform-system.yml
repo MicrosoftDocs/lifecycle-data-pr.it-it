@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Cloud Platform System
+  description: Cloud Platform System segue il criterio del ciclo di vita fisso.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 931caf3fc06338dfa6ec97f0a7bc079c9be6a4a9
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "857009"
+name: Cloud Platform System
+summary: >+
+  Cloud Platform System segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+
+
+products:
+- azure
+policyType: fixed
+supportDates:
+  start: 01/29/2015
+  end: 04/14/2020
+  extendedEnd: 07/12/2022
+releases:
+- version: Original Release
+  startDate: 01/29/2015
+  endDate: 07/12/2022
+content: "\n\n> [!NOTE]\n> Il supporto per il sistema Cloud Platform è esteso come mostrato per fornire a tutti i clienti la sequenza temporale standard per la transizione del ciclo di vita.\n> [!NOTE]\n> Cloud Platform System standard lanciato il 18 settembre 2017."

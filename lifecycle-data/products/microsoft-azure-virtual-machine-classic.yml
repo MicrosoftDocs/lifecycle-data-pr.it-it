@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Macchina virtuale di Microsoft Azure (classica) (conferma con Azure prima della pubblicazione-nessuna data di fine sulla griglia di data)
+  description: La macchina virtuale di Microsoft Azure (classica) (conferma con Azure prima della pubblicazione-nessuna data di fine sulla griglia di data) segue il criterio del ciclo di vita moderno.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 62691a5a8045c8744b291cd5475ad7b6828542e8
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "857058"
+name: Macchina virtuale di Microsoft Azure (classica) (conferma con Azure prima della pubblicazione-nessuna data di fine sulla griglia di data)
+summary: >+
+  La macchina virtuale di Microsoft Azure (classica) (conferma con Azure prima della pubblicazione-nessuna data di fine sulla griglia di data) segue il criterio del ciclo di vita [moderno](/lifecycle/policies/modern) .
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 06/07/2012
+  end: 03/01/2023
+releases:
+- version: Original Release
+  startDate: 06/07/2012
+  endDate: 03/01/2023
+content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](/azure/virtual-machines/classic-vm-deprecation)"
