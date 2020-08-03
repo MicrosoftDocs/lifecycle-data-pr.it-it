@@ -1,0 +1,38 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server Update Services 3,0
+  description: Windows Server Update Services 3,0 segue il criterio del ciclo di vita fisso.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "824975"
+name: Windows Server Update Services 3,0
+summary: >
+  Windows Server Update Services 3,0 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > Il supporto è terminato. Vedere le indicazioni sulla migrazione seguenti.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/10/2007
+  end: 07/10/2012
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 08/25/2009
+  endDate: 01/14/2020
+- version: Service Pack 1
+  startDate: 04/17/2008
+  endDate: 10/12/2010
+- version: Original Release
+  startDate: 07/10/2007
+  endDate: 07/14/2009
+content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Criteri del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Il supporto è stato esteso da 7/11/2017 a 1/14/2020."

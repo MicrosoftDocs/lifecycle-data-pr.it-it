@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008 R2
+  description: Windows Server 2008 R2 segue il criterio del ciclo di vita fisso.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a6c6adf73d2ed1b58f9ce3f1458f7a11cd1ae494
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "824976"
+name: Windows Server 2008 R2
+summary: "Windows Server 2008 R2 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .\n\nSi applica alle edizioni seguenti: Datacenter, Enterprise, HPC Edition, sistemi basati su Itanium, standard, Web\n\n> [!IMPORTANT]\n> Il supporto per questo prodotto è terminato. Vedere le indicazioni sulla migrazione seguenti. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](https://aka.ms/AA1ovn4)\n* [Informazioni sull'aggiornamento del server](/windows-server/upgrade/upgrade-overview)\n* [Programma di aggiornamento della sicurezza esteso (UDE)](/lifecycle/faq/extended-security-updates)\n* [Criteri del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Gli aggiornamenti della sicurezza estesa (Ude, Extended Security Update) sono disponibili tramite programmi di contratti multilicenza specifici per le edizioni del Data Center, standard, Enterprise e embedded di questa edizione del prodotto, fino a un massimo di tre anni oltre la fine del supporto. Per ulteriori informazioni, contattare il team di account o partner Microsoft. \n\nRelease-------------------------------Data di inizio----data di fine\n\nAggiornamento della sicurezza esteso anno 3---01/11/2022---01/10/2023\n\nAggiornamento della protezione esteso anno 2---01/12/2021---01/11/2022\n\nAggiornamento della protezione esteso anno 1---01/14/2020---01/12/2021\n\n## <a name=\"editions\"></a>Edizioni \n* Datacenter\n* Grandi aziende\n* HPC Edition\n* Sistemi basati su Itanium\n* Standard\n* Web"

@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008
+  description: Windows Server 2008 segue il criterio del ciclo di vita fisso.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "824977"
+name: Windows Server 2008
+summary: >
+  Windows Server 2008 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+
+
+  Questo si applica alle edizioni seguenti: Datacenter, Datacenter senza Hyper-V, Enterprise, Enterprise senza Hyper-V, per sistemi basati su Itanium, Foundation, standard, standard senza Hyper-V, Web
+
+
+  > [!IMPORTANT]
+
+  > Il supporto per questo prodotto è terminato. Vedere le indicazioni sulla migrazione seguenti.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/06/2008
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 05/06/2008
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](https://aka.ms/AA1ovn4)\n* [Informazioni sull'aggiornamento del server](/windows-server/upgrade/upgrade-overview)\n* [Programma di aggiornamento della sicurezza esteso (UDE)](/lifecycle/faq/extended-security-updates)\n* [Criteri del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Gli aggiornamenti della sicurezza estesa (Ude, Extended Security Update) sono disponibili tramite programmi di contratti multilicenza specifici per le edizioni del Data Center, standard, Enterprise e embedded di questa edizione del prodotto, fino a un massimo di tre anni oltre la fine del supporto. Per ulteriori informazioni, contattare il team di account o partner Microsoft. \n\nRelease-------------------------------Data di inizio----data di fine\n\nAggiornamento della sicurezza esteso anno 3---01/11/2022---01/10/2023\n\nAggiornamento della protezione esteso anno 2---01/12/2021---01/11/2022\n\nAggiornamento della protezione esteso anno 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundation rilasciata il 21 maggio 2009\n\n## <a name=\"editions\"></a>Edizioni \n* Datacenter\n* Datacenter senza Hyper-V\n* Grandi aziende\n* Enterprise senza Hyper-V\n* per sistemi basati su Itanium\n* Foundation\n* Standard\n* Standard senza Hyper-V\n* Web"
