@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: CycleCloud di Azure
+  description: Azure CycleCloud segue il criterio del ciclo di vita moderno.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4372209f8c7d30c736fb93349bff6a395b0e77ab
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "870323"
+name: CycleCloud di Azure
+summary: >+
+  Azure CycleCloud segue il criterio del ciclo di vita [moderno](/lifecycle/policies/modern) .
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 08/01/2018
+releases:
+- version: Original Release
+  startDate: 08/01/2018
+content: "\n## <a name=\"links\"></a>Links \n* [Informazioni di manutenzione](/azure/cyclecloud/service-policy)"
