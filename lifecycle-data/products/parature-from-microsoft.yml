@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Parature, da Microsoft
+  description: La Parature di Microsoft segue la moderna politica del ciclo di vita.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ec9af75ad6501403aa83c803d54630069c7b3f0a
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "856787"
+name: Parature, da Microsoft
+summary: >+
+  La Parature di Microsoft segue la [moderna](/lifecycle/policies/modern) politica del ciclo di vita.
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 01/01/2015
+  end: 05/15/2018
+releases:
+- version: Original Release
+  startDate: 01/01/2015
+  endDate: 05/15/2018
+content: "\n## <a name=\"links\"></a>Links \n* [Annuncio di fine supporto](https://support.microsoft.com/help/4035128)\n* [Portale di supporto per la migrazione di Parature](https://aka.ms/paraturecustomers)"

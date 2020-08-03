@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 Mobile Enterprise, rilasciata nel novembre 2015
+  description: Windows 10 Mobile Enterprise, rilasciata nel 2015 novembre segue il criterio del ciclo di vita fisso.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0299ce6896a2fc30f3000e41d4d09469358fd1c8
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "856765"
+name: Windows 10 Mobile Enterprise, rilasciata nel novembre 2015
+summary: >
+  Windows 10 Mobile Enterprise, rilasciata nel 2015 novembre segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > Il supporto per questo prodotto è terminato.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 11/16/2015
+  end: 01/09/2018
+releases:
+- version: Original Release
+  startDate: 11/16/2015
+  endDate: 01/09/2018
+content: "\n## <a name=\"links\"></a>Links \n* [Domande frequenti sul ciclo di vita del dispositivo OS](/lifecycle/faq/device-operating-systems)\n* [Supporto di Windows 10 Mobile terminato il 10 dicembre 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"

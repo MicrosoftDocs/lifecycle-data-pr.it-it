@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics GP 2010 R2
+  description: Dynamics GP 2010 R2 segue il criterio del ciclo di vita fisso.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0a949af7488fa22cb0aa994ab4436f139097b25b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "857094"
+name: Dynamics GP 2010 R2
+summary: >+
+  Dynamics GP 2010 R2 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 07/14/2011
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 07/14/2011
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>Links \n* [Informazioni aggiuntive e linee guida per la migrazione](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [Informazioni sul prodotto](/dynamics-gp/)"
