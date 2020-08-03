@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Framework 3,0 per i servizi connessi Microsoft
+  description: Microsoft Connected Services Framework 3,0 segue il criterio del ciclo di vita fisso.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f30c38e094a3b58f587d59871bd573607df04273
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "824770"
+name: Framework 3,0 per i servizi connessi Microsoft
+summary: >+
+  Microsoft Connected Services Framework 3,0 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+
+
+  Questo vale per le edizioni seguenti: evento aziendale standard per la fatturazione, gestione degli ordini standard, server, standard, server standard con eventi aziendali standard
+
+products:
+- connected-services-framework
+policyType: fixed
+supportDates:
+  start: 06/30/2006
+  end: 07/12/2011
+  extendedEnd: 07/12/2016
+releases:
+- version: Original Release
+  startDate: 06/30/2006
+  endDate: 07/12/2016
+content: "\n\n\n## <a name=\"editions\"></a>Edizioni \n* Evento aziendale standard per la fatturazione\n* Gestione degli ordini evento aziendale standard\n* Server\n* Standard\n* Server Standard con eventi aziendali standard"

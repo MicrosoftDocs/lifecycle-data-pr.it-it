@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Adattatori Microsoft BizTalk per sistemi host 2,0
+  description: Gli adattatori Microsoft BizTalk per i sistemi host 2,0 seguono il criterio del ciclo di vita fisso.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f80e0cf76eebd3d54f478080a80929cb15778886
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "824803"
+name: Adattatori Microsoft BizTalk per sistemi host 2,0
+summary: >+
+  Gli adattatori Microsoft BizTalk per i sistemi host 2,0 seguono il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+
+
+  Si applica alle edizioni seguenti: Developer, standard
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 06/21/2009
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 06/21/2009
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Sviluppatore\n* Standard"

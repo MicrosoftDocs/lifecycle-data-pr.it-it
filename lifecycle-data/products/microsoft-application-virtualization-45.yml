@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Application Virtualization 4,5
+  description: Microsoft Application Virtualization 4,5 segue il criterio del ciclo di vita fisso.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9280ac5223f15be20ed2c04fe29b25fd57417b6a
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "824828"
+name: Microsoft Application Virtualization 4,5
+summary: >
+  Microsoft Application Virtualization 4,5 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+
+
+  Si applica alle edizioni seguenti: per i servizi Terminal, per i desktop di Windows
+
+
+  > [!IMPORTANT]
+
+  > Il supporto per questo prodotto è terminato. Vedere le indicazioni sulla migrazione seguenti.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/23/2008
+  end: 01/14/2014
+  extendedEnd: 01/08/2019
+releases:
+- version: Service Pack 2
+  startDate: 08/15/2010
+  endDate: 01/08/2019
+- version: Service Pack 1
+  startDate: 12/13/2009
+  endDate: 10/11/2011
+- version: Original Release
+  startDate: 11/23/2008
+  endDate: 01/11/2011
+content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Criteri del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Poiché il client App-V 4,6 utilizza il server App-V 4,5, il server App-V 4,5 continuerà a essere supportato in base alle date del ciclo di vita di App-V 4,6 quando sono in uso con il client App-V 4,6 supportato.\n\n## <a name=\"editions\"></a>Edizioni \n* per i servizi Terminal\n* per i desktop di Windows"
