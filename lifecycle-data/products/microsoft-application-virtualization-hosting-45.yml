@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Application Virtualization hosting 4,5 per desktop di Windows
+  description: Microsoft Application Virtualization hosting 4,5 for Windows Desktops segue il criterio del ciclo di vita fisso.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3cb5049ed11ed567b8b7c1f3bd51de8b00b27ee8
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "824821"
+name: Microsoft Application Virtualization hosting 4,5 per desktop di Windows
+summary: >
+  Microsoft Application Virtualization hosting 4,5 for Windows Desktops segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+
+
+  Si applica alle edizioni seguenti: per i desktop di Windows
+
+
+  > [!IMPORTANT]
+
+  > Il supporto per questo prodotto è terminato. Vedere le informazioni sulla migrazione di seguito.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/23/2008
+  end: 01/14/2014
+  extendedEnd: 01/08/2019
+releases:
+- version: Service Pack 2
+  startDate: 08/15/2010
+  endDate: 01/08/2019
+- version: Service Pack 1
+  startDate: 12/13/2009
+  endDate: 10/11/2011
+- version: Original Release
+  startDate: 11/23/2008
+  endDate: 01/11/2011
+content: "\n## <a name=\"links\"></a>Links \n* [Informazioni sul prodotto e sulla migrazione](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Criteri del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edizioni \n* per i desktop di Windows"
