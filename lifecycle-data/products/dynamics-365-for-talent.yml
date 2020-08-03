@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 per i talenti
+  description: Dynamics 365 for Talent segue la moderna politica del ciclo di vita.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d6dc50f8fa82bcf711b79df464c150fdbf9d1ec6
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "870308"
+name: Dynamics 365 per i talenti
+summary: >+
+  Dynamics 365 for Talent segue la [moderna](/lifecycle/policies/modern) politica del ciclo di vita.
+
+
+  Si applica alle edizioni seguenti: Onboard
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 07/31/2017
+  end: 02/02/2022
+releases:
+- version: Original Release
+  startDate: 07/31/2017
+  endDate: 02/02/2022
+content: "\n## <a name=\"links\"></a>Links \n* [Requisiti di sistema](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Guida alla migrazione](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> L'attrazione e l'onboard Apps saranno ritirate il 2 febbraio 2022.  Core HR riavviato come Dynamics 365 Human Resources il 1 ° febbraio 2020, vedere Guida alla migrazione per ulteriori informazioni.\n\n## <a name=\"editions\"></a>Edizioni \n* Bordo"
