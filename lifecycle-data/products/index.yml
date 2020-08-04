@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
 title: Informazioni sul ciclo di vita del prodotto e dei servizi di ricerca (anteprima)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Questa pagina è in fase di sviluppo. Per un elenco completo dei prodotti Microsoft e delle relative sequenze temporali e dettagli del supporto, visitare [aka.ms/Lifecycle/Search](https://aka.ms/lifecycle/search/).\n\n\nIl ciclo di vita di Microsoft fornisce linee guida coerenti e prevedibili per il supporto per tutta la durata di un prodotto, aiutando i clienti a gestire gli investimenti IT e gli ambienti pianificati in modo strategico per il futuro.\n\n\nEseguire una ricerca in basso per un elenco di prodotti e servizi commerciali Microsoft, quindi selezionare il risultato per trovare le sequenze temporali di supporto e manutenzione, gli aggiornamenti necessari, le informazioni sulla migrazione e i requisiti di sistema."
+summary: "\n\n> [!IMPORTANT]\n> Questa pagina è in fase di sviluppo. Per un elenco completo dei prodotti Microsoft e delle relative sequenze temporali e dettagli del supporto, visitare [aka.ms/Lifecycle/Search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Esportare le informazioni sul ciclo di vita dalla pagina [Export del ciclo](/lifecycle/export/products) di vita.\n\n\nIl ciclo di vita di Microsoft fornisce linee guida coerenti e prevedibili per il supporto per tutta la durata di un prodotto, aiutando i clienti a gestire gli investimenti IT e gli ambienti pianificati in modo strategico per il futuro.\n\n\nEseguire una ricerca in basso per un elenco di prodotti e servizi commerciali Microsoft, quindi selezionare il risultato per trovare le sequenze temporali di supporto e manutenzione, gli aggiornamenti necessari, le informazioni sulla migrazione e i requisiti di sistema."
 metadata:
-  ms.openlocfilehash: 6bb48cf842d75b6dec70a1d057d9a732e245a823
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: d412a8110fc64c4cb346fd9b7056fa35a59c8260
+  ms.sourcegitcommit: 0c5dc5388beb299272e01efb037b964e49ca1fb0
   ms.translationtype: MT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "824849"
+  ms.lasthandoff: 08/04/2020
+  ms.locfileid: "882441"
