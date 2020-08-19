@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: PolicyMaker
+  description: I responsabili politici seguono il criterio del ciclo di vita fisso.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: d1b7d7ac98ec91c5118023494257fde96fbf2c6f
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904229"
+name: PolicyMaker
+summary: >+
+  I responsabili politici seguono il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+
+
+  Questo vale per le edizioni seguenti: Application Security, Outlook Edition, Professional 9,0, Extension 2,0 del registro di sistema, Share Manager 1,0, Software Update 1,0, Software Update 2,0, standard 1,0, standard 2,0
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n\n> [!NOTE]\n> Il supporto per questo prodotto è soggetto ai termini della sua acquisizione.\n\n## <a name=\"editions\"></a>Edizioni \n* Sicurezza delle applicazioni\n* Outlook Edition\n* Professional 9,0\n* Estensione del registro di sistema 2,0\n* Share Manager 1,0\n* Aggiornamento software 1,0\n* Aggiornamento software 2,0\n* Standard 1,0\n* Standard 2,0"
