@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office per Mac 2011
-  description: Microsoft Office per Mac 2011 segue il criterio del ciclo di vita fisso.
+  description: Microsoft Office per Mac 2011 segue i Criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: b2469fc1a66c94cb7a3d71ea25595ed2eb4be125
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856831"
 name: Microsoft Office per Mac 2011
 summary: >+
-  Microsoft Office per Mac 2011 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Microsoft Office per Mac 2011 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
-  Questo vale per le edizioni seguenti: Università, Home and business, Home and Business Home Page Program, Home and Student, standard
+  Questo articolo si riferisce alle seguenti edizioni: Academic, Home and Business, Home and Business Home Use Program, Home and Student, Standard
 
 products:
 - office
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [Criteri del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Il supporto mainstream per Microsoft Office per Mac 2011 viene esteso come illustrato per fornire a tutti i clienti la sequenza temporale standard per la transizione del ciclo di vita.\n\n## <a name=\"editions\"></a>Edizioni \n* Accademico\n* Home and Business \n* Programma Home and Business Home Use\n* Home and Student \n* Standard"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Il supporto Mainstream per Microsoft Office per Mac 2011 viene esteso come illustrato al fine di fornire a tutti gli utenti la cronologia delle transizioni del ciclo di vita standard.\n\n## <a name=\"editions\"></a>Edizioni \n* Academic\n* Home and Business\n* Home and Business Home Use Program\n* Home and Student\n* Standard"
