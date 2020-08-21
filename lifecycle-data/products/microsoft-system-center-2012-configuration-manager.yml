@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center 2012 Configuration Manager
-  description: Microsoft System Center 2012 Configuration Manager segue il criterio del ciclo di vita fisso.
+  description: Microsoft System Center 2012 Configuration Manager segue i Criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: dce8796f280b29e070bbf1d5bab55452f6e706e7
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856947"
 name: Microsoft System Center 2012 Configuration Manager
 summary: >+
-  Microsoft System Center 2012 Configuration Manager segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Microsoft System Center 2012 Configuration Manager segue i Criteri [fissi](/lifecycle/policies/fixed) del ciclo di vita.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Links \n* [Criteri del Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Documentazione di System Center](/system-center/#pivot=components&panel=components-all)\n* [Risorse di System Center](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)\n* [Documentazione sul System Center](/system-center/#pivot=components&panel=components-all)\n* [Risorse del System Center](https://www.microsoft.com/system-center/resources)"

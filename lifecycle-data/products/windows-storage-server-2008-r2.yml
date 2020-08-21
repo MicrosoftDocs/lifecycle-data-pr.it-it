@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Storage Server 2008 R2
-  description: Windows Storage Server 2008 R2 segue il criterio del ciclo di vita fisso.
+  description: Windows Storage Server 2008 R2 segue i Criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 28647cde233349efc4b33be28393ce0916020c33
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857098"
 name: Windows Storage Server 2008 R2
 summary: >
-  Windows Storage Server 2008 R2 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Windows Storage Server 2008 R2 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
-  Si applica alle edizioni seguenti: Essentials, standard
+  Questo articolo si riferisce alle seguenti edizioni: Essentials, Standard
 
 
   > [!IMPORTANT]
 
-  > Il supporto per questo prodotto è terminato. Vedere le indicazioni sulla migrazione seguenti.
+  > Il supporto per questo prodotto è terminato. Vedere le linee guida per la migrazione riportate di seguito.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/20/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Links \n* [Informazioni di fine supporto](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [Guida alla migrazione](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Domande frequenti sull'aggiornamento della protezione esteso](/lifecycle/faq/extended-security-updates)\n* [Informazioni sull'aggiornamento del server](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Essentials Edition rilasciata il 28 giugno 2011.\n\n## <a name=\"editions\"></a>Edizioni \n* Essentials\n* Standard"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Informazioni sulla fine del supporto](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [Indicazioni sulla migrazione](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Domande frequenti sugli aggiornamenti della sicurezza estesa](/lifecycle/faq/extended-security-updates)\n* [Informazioni sull'aggiornamento del server](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> L'edizione Essentials è stata rilasciata il 28 giugno 2011.\n\n## <a name=\"editions\"></a>Edizioni \n* Essentials\n* Standard"

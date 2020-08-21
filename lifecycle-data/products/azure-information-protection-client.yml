@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Client di Azure Information Protection
-  description: Il client Azure Information Protection segue il criterio del ciclo di vita moderno.
+  title: Client Azure Information Protection
+  description: Il client Azure Information Protection segue i Criteri moderni relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856720"
-name: Client di Azure Information Protection
+name: Client Azure Information Protection
 summary: >+
-  Il client Azure Information Protection segue il criterio del ciclo di vita [moderno](/lifecycle/policies/modern) .
+  Il client Azure Information Protection segue i Criteri [moderni](/lifecycle/policies/modern) relativi al ciclo di vita.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2016
   endDate: 03/31/2021
-content: "\n## <a name=\"links\"></a>Links \n* [Informazioni di manutenzione](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Guida alla migrazione](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Per fornire un'esperienza utente unificata e semplificata, il client Azure Information Protection (Classic) e la gestione delle etichette nel portale di Azure sono deprecati al 31 marzo 2021. Questo intervallo di tempo consente a tutti i clienti di Azure Information Protection correnti di passare alla soluzione di etichettatura unificata utilizzando la piattaforma di etichettatura unificata di Microsoft Information Protection."
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Informazioni sulla manutenzione](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Indicazioni sulla migrazione](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Per offrire un'esperienza cliente unificata e semplificata, il client Azure Information Protection (classico) e la gestione etichette nel portale di Azure verranno deprecati a partire dal 31 marzo 2021. Questo lasso di tempo consente a tutti i clienti attivi di Azure Information Protection di passare alla nostra soluzione di etichettatura unificata utilizzando la piattaforma di etichettatura unificata di Microsoft Information Protection."

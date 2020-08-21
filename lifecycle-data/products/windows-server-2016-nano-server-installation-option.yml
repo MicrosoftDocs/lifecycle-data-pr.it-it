@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Opzione di installazione di Windows Server 2016 nano server
-  description: L'opzione di installazione di Windows Server 2016 nano Server segue il criterio del ciclo di vita moderno.
+  title: Opzione di installazione di Nano Server per Windows Server 2016
+  description: L'opzione di installazione di Nano Server per Windows Server 2016 segue i Criteri moderni relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6c8189a0fe39fe3ad0b79147e0b2ddbd67e3f799
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857189"
-name: Opzione di installazione di Windows Server 2016 nano server
+name: Opzione di installazione di Nano Server per Windows Server 2016
 summary: >+
-  L'opzione di installazione di Windows Server 2016 nano Server segue il criterio del ciclo di vita [moderno](/lifecycle/policies/modern) .
+  L'opzione di installazione di Nano Server per Windows Server 2016 segue i criteri [moderni](/lifecycle/policies/modern) relativi al ciclo di vita.
 
 
-  Si applica alle edizioni seguenti: Datacenter, standard
+  Questo articolo si riferisce alle seguenti edizioni: Datacenter, Standard
 
 products:
 - windows
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Links \n* [Informazioni di manutenzione](/windows-server/get-started/nano-in-semi-annual-channel)\n* [Domande frequenti sul ciclo di vita-prodotti Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Datacenter\n* Standard"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Informazioni sulla manutenzione](/windows-server/get-started/nano-in-semi-annual-channel)\n* [Domande frequenti sul ciclo di vita - Prodotti Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Datacenter\n* Standard"

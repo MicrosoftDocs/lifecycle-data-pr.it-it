@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 core
-  description: Windows 10 core molto segue il criterio del ciclo di vita moderno.
+  title: Windows 10 IoT Core
+  description: Windows 10 IoT Core segue i Criteri moderni relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4de1aecc88c37d87a38cd5eca9274bcb4c854739
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857024"
-name: Windows 10 core
+name: Windows 10 IoT Core
 summary: >
-  Windows 10 core molto segue il criterio del ciclo di vita [moderno](/lifecycle/policies/modern) .
+  Windows 10 IoT Core segue i Criteri [moderni](/lifecycle/policies/modern) relativi al ciclo di vita.
 
 
 
   > [!IMPORTANT]
 
-  > Microsoft continuerà a supportare almeno un canale semestrale di Windows 10 fino al 14 ottobre 2025.
+  > Microsoft continuerà a supportare almeno un Canale semestrale di Windows 10 fino al 14 ottobre 2025.
 products:
 - windows
 policyType: modern-on-prem
@@ -40,4 +40,4 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Links \n* [Informazioni sul prodotto](/windows/iot-core/windows-iot-core)\n* [Foglio dei fatti del ciclo di vita di Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows come servizio (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Domande frequenti sul ciclo di vita-prodotti Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Se non differiti, è possibile che vengano installati gli aggiornamenti delle funzionalità del canale semestrale di Windows 10 successivi alla fine della data di supporto corrente."
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Informazioni sul prodotto](/windows/iot-core/windows-iot-core)\n* [Scheda informativa sul ciclo di vita di Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Domande frequenti sul ciclo di vita - Prodotti Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Salvo posticipi, i seguenti aggiornamenti delle funzionalità del Canale semestrale di Windows 10 possono essere installati prima della fine del supporto Mainstream."
