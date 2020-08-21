@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Configuration Manager 2007 R2
-  description: Microsoft System Center Configuration Manager 2007 R2 segue il criterio del ciclo di vita fisso.
+  description: Microsoft System Center Configuration Manager 2007 R2 segue i Criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0da71b9a2886e1a7012339ebef9a5fbe64f8811e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824702"
 name: Microsoft System Center Configuration Manager 2007 R2
 summary: >
-  Microsoft System Center Configuration Manager 2007 R2 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Microsoft System Center Configuration Manager 2007 R2 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 
   > [!IMPORTANT]
 
-  > Il supporto per questo prodotto è terminato. Vedere le indicazioni sulla migrazione seguenti.
+  > Il supporto per questo prodotto è terminato. Vedere le linee guida per la migrazione riportate di seguito.
 products:
 - msc
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 11/29/2008
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](/mem/configmgr/core/migration/planning-for-migration)\n* [Ulteriori informazioni sulla migrazione](/mem/configmgr/core/migration/migrate-data-between-hierarchies)"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](/mem/configmgr/core/migration/planning-for-migration)\n* [Ulteriori indicazioni sulla migrazione](/mem/configmgr/core/migration/migrate-data-between-hierarchies)"

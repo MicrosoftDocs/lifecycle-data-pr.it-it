@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Exchange Server 2010
-  description: Exchange Server 2010 segue il criterio del ciclo di vita fisso.
+  description: Exchange Server 2010 segue i Criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5452228ee7f953f50a2f034c9cf646e7c85b53b3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824192"
 name: Exchange Server 2010
 summary: >+
-  Exchange Server 2010 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Exchange Server 2010 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
-  Si applica alle edizioni seguenti: Enterprise, standard
+  Questo articolo si riferisce alle seguenti edizioni: Enterprise, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/09/2009
   endDate: 10/11/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Data Extension](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/Microsoft-Extending-End-of-Support-for-Exchange-Server-2010-to/ba-p/753591)\n* [Guida alla migrazione](https://blogs.technet.microsoft.com/exchange/2018/04/10/exchange-2010-end-of-support-is-coming/)\n\n> [!NOTE]\n> Il ciclo di vita per Exchange Server 2010 è stato esteso.\n\n## <a name=\"editions\"></a>Edizioni \n* Grandi aziende\n* Standard"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Proroga della data](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/Microsoft-Extending-End-of-Support-for-Exchange-Server-2010-to/ba-p/753591)\n* [Indicazioni sulla migrazione](https://blogs.technet.microsoft.com/exchange/2018/04/10/exchange-2010-end-of-support-is-coming/)\n\n> [!NOTE]\n> Il ciclo di vita per Exchange Server 2010 è stato esteso.\n\n## <a name=\"editions\"></a>Edizioni \n* Enterprise\n* Standard"

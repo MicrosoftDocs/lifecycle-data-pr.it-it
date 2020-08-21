@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Enterprise Desktop Virtualization 1,0
-  description: Microsoft Enterprise Desktop Virtualization 1,0 segue il criterio del ciclo di vita fisso.
+  title: Microsoft Enterprise Desktop Virtualization 1.0
+  description: Microsoft Enterprise Desktop Virtualization 1.0 segue i Criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71dcb3cec051dba7376d58dc536d778ae7359f4a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824757"
-name: Microsoft Enterprise Desktop Virtualization 1,0
+name: Microsoft Enterprise Desktop Virtualization 1.0
 summary: >
-  Microsoft Enterprise Desktop Virtualization 1,0 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Microsoft Enterprise Desktop Virtualization 1.0 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
-  Ciò si applica alle edizioni seguenti: Enterprise
+  Questo articolo si riferisce alle seguenti edizioni: Enterprise
 
 
   > [!IMPORTANT]
 
-  > Il supporto per questo prodotto è terminato. Vedere le indicazioni sulla migrazione seguenti.
+  > Il supporto per questo prodotto è terminato. Vedere le linee guida per la migrazione riportate di seguito.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 08/03/2008
   endDate: 04/12/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Criteri del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Grandi aziende"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Enterprise"

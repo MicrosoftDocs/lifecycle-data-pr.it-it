@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2008 per Mac
-  description: Microsoft Office 2008 per Mac segue il criterio del ciclo di vita fisso.
+  description: Microsoft Office 2008 per Mac segue i Criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: abf5213b99b3f5ca6d64daa69ef50c3462fc9d35
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824410"
 name: Microsoft Office 2008 per Mac
-summary: "Microsoft Office 2008 per Mac segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .\n\nSi applica alle edizioni seguenti: business, Home and Student, Special Media Editon\n\n> [!IMPORTANT]\n> Il supporto per questo prodotto è terminato. \n"
+summary: "Microsoft Office 2008 per Mac segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.\n\nQuesto articolo si riferisce alle seguenti edizioni: Business, Home and Student, Special Media Editon\n\n> [!IMPORTANT]\n> Il supporto per questo prodotto è terminato. \n"
 products:
 - office
 policyType: fixed-mainstream-only
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2008
   endDate: 10/19/2009
-content: "\n## <a name=\"links\"></a>Links \n* [Criteri del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> La data di inizio per Office 2008 per Mac Special Media Edition è il 12 marzo 2008.\n\n## <a name=\"editions\"></a>Edizioni \n* Business\n* Home and Student \n* Editon media speciali"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> La data di inizio di Office 2008 per Mac Special Media Edition è il 12 marzo 2008.\n\n## <a name=\"editions\"></a>Edizioni \n* Business\n* Home and Student\n* Special Media Editon"

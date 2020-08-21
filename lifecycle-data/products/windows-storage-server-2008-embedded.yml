@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Storage Server 2008 incorporato
-  description: Windows Storage Server 2008 Embedded segue il criterio del ciclo di vita fisso.
+  title: Windows Storage Server 2008 Embedded
+  description: Windows Storage Server 2008 Embedded segue i Criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 12346be664c5039b392d1bcbc51143f8c5088758
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824255"
-name: Windows Storage Server 2008 incorporato
+name: Windows Storage Server 2008 Embedded
 summary: >+
-  Windows Storage Server 2008 Embedded segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Windows Storage Server 2008 Embedded segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
-  Si applica alle edizioni seguenti: 32 bit, 64 bit, Basic, Basic 32-bit, Enterprise, standard, Workgroup
+  Questo articolo si riferisce alle seguenti edizioni: 32 Bit, 64 Bit, Basic, Basic 32-Bit, Enterprise, Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/19/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Questo prodotto ha raggiunto la fine del supporto. Vedere di seguito per le indicazioni sulla migrazione.\n\n## <a name=\"editions\"></a>Edizioni \n* 32 bit\n* 64 bit\n* Base\n* Base 32 bit\n* Grandi aziende\n* Standard\n* Gruppo"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Questo prodotto ha raggiunto la fine del supporto. Per istruzioni sulla migrazione, vedere di seguito.\n\n## <a name=\"editions\"></a>Edizioni \n* 32 Bit\n* 64 Bit\n* Basic\n* Basic 32-Bit\n* Enterprise\n* Standard\n* Workgroup"

@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Lync Server 2013
-  description: Microsoft Lync Server 2013 segue il criterio del ciclo di vita fisso.
+  description: Microsoft Lync Server 2013 segue i Criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: b34b0e978d3da966e6a157c65ddd72a00a635db0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824416"
 name: Microsoft Lync Server 2013
-summary: >+
-  Microsoft Lync Server 2013 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
-
-
-  Si applica alle edizioni seguenti: Enterprise, Persistent Chat Software Development Kit, Phone, SDK, standard
-
+summary: "Microsoft Lync Server 2013 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita. \n\nQuesto articolo si riferisce alle seguenti edizioni: Enterprise, Software Development Kit per Chat persistente, Telefono, SDK, Standard\n\n"
 products:
 - office
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Links \n* [Informazioni sul prodotto](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone Edition è supportato con Lync Server 2010 e Lync Server 2013. La data di supporto per Lync Phone Edition è stata estesa 2 anni per essere allineata al ciclo di vita di Lync Server 2013.\n\n## <a name=\"editions\"></a>Edizioni \n* Grandi aziende\n* Kit di sviluppo software per chat persistente\n* Telefono\n* SDK\n* Standard"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Informazioni sul prodotto](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone Edition è supportato con Lync Server 2010 e Lync Server 2013. La data di supporto per Lync Phone Edition è stata estesa di 2 anni per allinearsi al ciclo di vita di Lync Server 2013.\n\n## <a name=\"editions\"></a>Edizioni \n* Enterprise\n* Software Development Kit per Chat persistente\n* Telefono\n* SDK\n* Standard"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2005
-  description: Visual Studio Team Foundation Server 2005 segue il criterio del ciclo di vita fisso.
+  description: Visual Studio Team Foundation Server 2005 segue i Criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 881badd8c2a2954697d7a63f329250f4a07b9581
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824141"
 name: Visual Studio Team Foundation Server 2005
 summary: >+
-  Visual Studio Team Foundation Server 2005 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Visual Studio Team Foundation Server 2005 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/17/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Links \n* [Criteri del Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Guida alla migrazione](https:// https://msdn.microsoft.com/library/vs/alm/tfs/upgrade/tfs-2005-to-2015)\n\n> [!NOTE]\n> Il supporto per questo prodotto è terminato. Vedere di seguito per le indicazioni sulla migrazione."
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)\n* [Indicazioni sulla migrazione](https:// https://msdn.microsoft.com/library/vs/alm/tfs/upgrade/tfs-2005-to-2015)\n\n> [!NOTE]\n> Il supporto per questo prodotto è terminato. Per istruzioni sulla migrazione, vedere di seguito."

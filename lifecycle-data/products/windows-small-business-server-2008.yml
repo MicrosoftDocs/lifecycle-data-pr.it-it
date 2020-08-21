@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Small Business Server 2008
-  description: Windows Small Business Server 2008 segue il criterio del ciclo di vita fisso.
+  description: Windows Small Business Server 2008 segue i Criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: ca524a5b2238d362198454212c1b53d9946cdb05
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824258"
 name: Windows Small Business Server 2008
-summary: "Windows Small Business Server 2008 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .\n\nSi applica alle edizioni seguenti: Premium, standard\n\n> [!IMPORTANT]\n> Il supporto per questo prodotto è terminato. \n\nLa data di supporto per questo pacchetto di prodotti è determinata dai rispettivi ciclo di vita del prodotto componente individuale. Leggere il ciclo di vita del singolo componente per determinare la lunghezza del supporto.\n"
+summary: "Windows Small Business Server 2008 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita. \n\nQuesto articolo si riferisce alle seguenti edizioni: Premium, Standard\n\n> [!IMPORTANT]\n> Il supporto per questo prodotto è terminato. \n\nLa data di supporto per questo pacchetto di prodotti è determinata dai rispettivi cicli di vita dei singoli prodotti componenti. Si prega di esaminare il ciclo di vita del singolo prodotto componente per determinare la durata del supporto.\n"
 products:
 - windows
 policyType: fixed
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2008
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](https://aka.ms/AA1ovn4)\n* [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)\n* [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)\n* [Microsoft Windows SharePoint Services 3,0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Premium\n* Standard"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](https://aka.ms/AA1ovn4)\n* [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)\n* [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)\n* [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Premium\n* Standard"

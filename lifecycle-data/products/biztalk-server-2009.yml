@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: BizTalk Server 2009
-  description: BizTalk Server 2009 segue il criterio del ciclo di vita fisso.
+  description: BizTalk Server 2009 segue i Criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 89280d62397e3c5dbfaaf332c7f8618eb2713d0d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825023"
 name: BizTalk Server 2009
 summary: >
-  BizTalk Server 2009 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  BizTalk Server 2009 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
-  Si applica alle edizioni seguenti: Branch, Developer, Enterprise, standard
+  Questo articolo si riferisce alle seguenti edizioni: Branch, Developer, Enterprise, Standard
 
 
   > [!IMPORTANT]
 
-  > Il supporto per questo prodotto è terminato. Vedere le indicazioni sulla migrazione seguenti.
+  > Il supporto per questo prodotto è terminato. Vedere le linee guida per la migrazione riportate di seguito.
 products:
 - microsoft-servers
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Informazioni sulla versione](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Criteri del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Branch\n* Sviluppatore\n* Grandi aziende\n* Standard"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Informazioni sulla versione](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Branch\n* Developer\n* Enterprise\n* Standard"

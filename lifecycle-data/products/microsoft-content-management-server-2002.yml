@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Content Management Server 2002
-  description: Microsoft Content Management Server 2002 segue il criterio del ciclo di vita fisso.
+  description: Microsoft Content Management Server 2002 segue i Criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 37e472e998f4c244d30d4c7b372ab38699323e23
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824769"
 name: Microsoft Content Management Server 2002
 summary: >+
-  Microsoft Content Management Server 2002 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Microsoft Content Management Server 2002 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
-  Si applica alle edizioni seguenti: Enterprise, standard
+  Questo articolo si riferisce alle seguenti edizioni: Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -36,4 +36,4 @@ releases:
 - version: Service Pack 1
   startDate: 09/16/2003
   endDate: 07/11/2006
-content: "\n## <a name=\"links\"></a>Links \n* [Criteri del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> L'edizione Enterprise di questo prodotto ha una data di inizio del 7 novembre 2002. \n\n## <a name=\"editions\"></a>Edizioni \n* Grandi aziende\n* Standard"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> La data di inizio dell'edizione Enterprise di questo prodotto è il 7 novembre 2002. \n\n## <a name=\"editions\"></a>Edizioni \n* Enterprise\n* Standard"
