@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forecaster 7,0
-  description: Microsoft Forecaster 7,0 segue il criterio del ciclo di vita fisso.
+  title: Microsoft Forecaster 7.0
+  description: Microsoft Forecaster 7.0 segue i Criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824755"
-name: Microsoft Forecaster 7,0
+name: Microsoft Forecaster 7.0
 summary: >+
-  Microsoft Forecaster 7,0 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Microsoft Forecaster 7.0 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Criteri del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Il supporto di Forecaster termina alla data indicata a meno che non venga distribuita come componente di un prodotto Dynamics. Se distribuiti con un prodotto Dynamics, le date del ciclo di vita di Dynamics sovrascrivono la data Forecaster."
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Il supporto per Forecaster termina alla data indicata, a meno che non sia stato distribuito come componente di un prodotto Dynamics. Quando distribuito insieme a un prodotto Dynamics, le date del ciclo di vita di Dynamics sostituiscono la data di Forecaster."

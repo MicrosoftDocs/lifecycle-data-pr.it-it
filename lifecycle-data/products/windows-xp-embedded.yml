@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows XP Embedded
-  description: Windows XP Embedded segue il criterio del ciclo di vita fisso.
+  description: Windows XP Embedded segue i Criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2259d8ae34d4c63ad67bf4966d15bf71f2faa04c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824253"
 name: Windows XP Embedded
 summary: >
-  Windows XP Embedded segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Windows XP Embedded segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
-  Si applica alle edizioni seguenti: Embedded
+  Questo articolo si riferisce alle seguenti edizioni: Embedded
 
 
   > [!IMPORTANT]
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 01/30/2002
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Supporto di Windows XP Embedded](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Incorporato"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Supporto per Windows XP Embedded](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Embedded"

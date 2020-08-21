@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Embedded Standard 7
-  description: Windows Embedded Standard 7 segue il criterio del ciclo di vita fisso.
+  description: Windows Embedded Standard 7 segue i Criteri del ciclo di vita fisso.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2e4b6119250a574a9526e74a7ccea090e02ed61d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824622"
 name: Windows Embedded Standard 7
 summary: >+
-  Windows Embedded Standard 7 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Windows Embedded Standard 7 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
-  Si applica alle edizioni seguenti: standard
+  Questo articolo si riferisce alle seguenti edizioni: Standard
 
 products:
 - windows
@@ -39,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Links \n* [* Extended Security Update Program (UDE)-gli aggiornamenti della sicurezza prolungati per selezionare i prodotti incorporati sono disponibili tramite OEM](/lifecycle/faq/extended-security-updates)\n* [Guida alla migrazione](https://support.microsoft.com/help/4057281)\n* [Criteri del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> ' * Gli aggiornamenti della sicurezza estesa (UDE) sono disponibili per Windows Embedded Standard 7 fino a un massimo di tre anni dopo la fine del supporto tramite gli OEM. Per ulteriori informazioni, contattare il team di account o partner Microsoft.\n\n## <a name=\"editions\"></a>Edizioni \n* Standard"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [* Il programma per gli aggiornamenti della sicurezza estesa (ESU): Gli aggiornamenti della sicurezza estesa per i prodotti Embedded selezionati sono disponibili tramite gli OEM](/lifecycle/faq/extended-security-updates)\n* [Indicazioni sulla migrazione](https://support.microsoft.com/help/4057281)\n* [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> '*Gli aggiornamenti della sicurezza estesa (ESU, Extended Security Update) sono disponibili per Windows Embedded Standard 7, per un massimo di altri tre anni dopo la fine del supporto via OEM. Per ulteriori informazioni, contattare il partner o il team dell'account Microsoft.\n\n## <a name=\"editions\"></a>Edizioni \n* Standard"

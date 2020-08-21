@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Gestione dei criteri di gruppo di Microsoft Advanced 4,0
-  description: Microsoft Advanced Group Policy Management 4,0 segue il criterio del ciclo di vita fisso.
+  title: Gestione avanzata Criteri di gruppo di Microsoft 4.0
+  description: Gestione avanzata Criteri di gruppo 4.0 di Microsoft segue i Criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ee2407b159ab7e8573aa39ebff7de6fd8002bde
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824833"
-name: Gestione dei criteri di gruppo di Microsoft Advanced 4,0
+name: Gestione avanzata Criteri di gruppo di Microsoft 4.0
 summary: >+
-  Microsoft Advanced Group Policy Management 4,0 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Gestione avanzata Criteri di gruppo 4.0 di Microsoft segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2009
   endDate: 04/08/2014
-content: "\n## <a name=\"links\"></a>Links \n* [MDOP Information Experience](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Criteri del Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [MDOP Information Experience](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)"

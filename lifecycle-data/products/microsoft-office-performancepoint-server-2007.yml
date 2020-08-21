@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office PerformancePoint Server 2007
-  description: Microsoft Office PerformancePoint Server 2007 segue il criterio del ciclo di vita fisso.
+  description: Microsoft Office PerformancePoint Server 2007 segue i Criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: da215a3c725cf1387921080e1df0a6df52747517
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825080"
 name: Microsoft Office PerformancePoint Server 2007
-summary: >+
-  Microsoft Office PerformancePoint Server 2007 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
-
-
-  Si applica alle edizioni seguenti: 32 bit, 64 bit
-
+summary: "Microsoft Office PerformancePoint Server 2007 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita. \n\nQuesto articolo si riferisce alle seguenti edizioni: 32 Bit, 64 Bit\n\n"
 products:
 - office
 policyType: fixed
@@ -36,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 12/20/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n* [Criteri del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edizioni \n* 32 bit\n* 64 bit"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n* [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edizioni \n* 32 Bit\n* 64 Bit"
