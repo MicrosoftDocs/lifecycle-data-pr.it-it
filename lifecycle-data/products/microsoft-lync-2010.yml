@@ -2,13 +2,13 @@
 metadata:
   title: Microsoft Lync 2010
   description: Microsoft Lync 2010 segue il criterio del ciclo di vita fisso.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2a5d4651d05052e79c1c28309fc8ad530e584aec
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 815ef4b3c8026b5d508d221acfc67cae25770bcd
+  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
   ms.translationtype: MT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "856852"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907952"
 name: Microsoft Lync 2010
 summary: >+
   Microsoft Lync 2010 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
