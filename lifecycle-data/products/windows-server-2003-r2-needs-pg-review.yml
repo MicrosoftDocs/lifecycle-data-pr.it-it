@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2003 R2 (revisione PG necessaria)
+  description: Windows Server 2003 R2 (revisione PG necessaria) segue i criteri fissi relativi al ciclo di vita.
+  ms.date: 08/13/2020
+  ms.openlocfilehash: 8678c0ae8e2f3fa1a94459baad951411c5f10fd1
+  ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
+  ms.translationtype: HT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "905888"
+name: Windows Server 2003 R2 (revisione PG necessaria)
+summary: >+
+  Windows Server 2003 R2 (revisione PG necessaria) segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
+
+
+  Questo articolo si riferisce alle seguenti edizioni: Datacenter, Datacenter (x86 a 32 bit), Datacenter (x64), Enterprise (x86 a 32 bit), Enterprise x64, Standard (x86 a 32 bit), Standard x64
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/05/2006
+  end: 07/13/2010
+  extendedEnd: 07/14/2015
+releases:
+- version: Service Pack 2
+  startDate: 03/13/2007
+  endDate: 07/14/2015
+- version: Original Release
+  startDate: 03/05/2006
+  endDate: 04/14/2009
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)\n* [Percorsi supportati per l'aggiornamento da Windows Server 2003 a Windows Server 2008](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n* [Preparare i computer Windows Server 2003 per la migrazione](/azure/migrate/prepare-windows-server-2003-migration)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Datacenter\n* Datacenter (x86 a 32 bit)\n* Datacenter (x64)\n* Enterprise (x86 a 32 bit)\n* Enterprise X64\n* Standard (x86 a 32 bit)\n* Standard X64"
