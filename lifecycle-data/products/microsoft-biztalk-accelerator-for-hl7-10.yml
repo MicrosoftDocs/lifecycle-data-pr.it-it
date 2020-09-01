@@ -2,19 +2,20 @@
 metadata:
   title: 'Microsoft BizTalk Accelerator per HL7 1,0 '
   description: Microsoft BizTalk Accelerator per HL7 1,0 segue il criterio del ciclo di vita fisso.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: cef326653a2bc78d5b8b20c1dfb907827cd216d3
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 727fa4605cef159b99154e6a57d40c81eab3d619
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "824815"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935158"
 name: 'Microsoft BizTalk Accelerator per HL7 1,0 '
 summary: >+
   Microsoft BizTalk Accelerator per HL7 1,0 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
 
 
-  Si applica alle edizioni seguenti: standard
+  Questo articolo si riferisce alle seguenti edizioni: Standard
 
 products:
 - microsoft-servers
