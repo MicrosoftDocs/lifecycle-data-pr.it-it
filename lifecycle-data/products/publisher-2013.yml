@@ -2,19 +2,20 @@
 metadata:
   title: Publisher 2013
   description: Publisher 2013 segue il criterio del ciclo di vita fisso.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 706d07656f1c22220f7f96382c5aff14ac9d9d91
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 351331904acc01202c407f88c65b40ec18af6907
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "857216"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926167"
 name: Publisher 2013
 summary: >+
   Publisher 2013 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
 
 
-  Si applica alle edizioni seguenti: standard
+  Questo articolo si riferisce alle seguenti edizioni: Standard
 
 products:
 - office
