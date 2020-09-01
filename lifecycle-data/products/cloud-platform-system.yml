@@ -2,19 +2,20 @@
 metadata:
   title: Cloud Platform System
   description: Cloud Platform System segue il criterio del ciclo di vita fisso.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 132fd3832cd1d0927fe7ce6af7eb8e0a21e8d308
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "891884"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932050"
 name: Cloud Platform System
 summary: >+
   Cloud Platform System segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
 
 
-  Si applica alle edizioni seguenti: standard
+  Questo articolo si riferisce alle seguenti edizioni: Standard
 
 products:
 - azure
