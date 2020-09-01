@@ -2,19 +2,20 @@
 metadata:
   title: Word 2016
   description: La parola 2016 segue il criterio del ciclo di vita fisso.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e192e8d44b38201ff6e87ff9a824ced78dbbf87f
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 65d33fb18d97798011013ff25eedc82583075734
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "856808"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938636"
 name: Word 2016
 summary: >+
   La parola 2016 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
 
 
-  Si applica alle edizioni seguenti: standard
+  Questo articolo si riferisce alle seguenti edizioni: Standard
 
 products:
 - office
