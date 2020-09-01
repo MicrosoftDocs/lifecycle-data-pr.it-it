@@ -2,13 +2,14 @@
 metadata:
   title: Espressione 2
   description: L'espressione 2 segue il criterio del ciclo di vita fisso.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0ff3dba3df24ff405a22bfacac75ea04ab227f90
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio,Web
+  ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "824188"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930829"
 name: Espressione 2
 summary: "L'espressione 2 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .\n\nSi applica alle edizioni seguenti: Blend, design, encoder, studio, Web\n\n> [!IMPORTANT]\n> Il supporto è terminato per questo prodotto. \n"
 products:
