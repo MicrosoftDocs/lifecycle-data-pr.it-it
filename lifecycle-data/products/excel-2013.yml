@@ -2,19 +2,20 @@
 metadata:
   title: Excel 2013
   description: Excel 2013 segue il criterio del ciclo di vita fisso.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: a8420acbf87b6c3035713e5085c07f3b9db9c88f
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: a61ea8a7812cf8f0588cedf137009800c888809c
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "857064"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "931532"
 name: Excel 2013
 summary: >+
   Excel 2013 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
 
 
-  Si applica alle edizioni seguenti: standard
+  Questo articolo si riferisce alle seguenti edizioni: Standard
 
 products:
 - office
