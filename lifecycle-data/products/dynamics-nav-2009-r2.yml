@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics NAV 2009 R2
-  description: Dynamics NAV 2009 R2 segue il criterio del ciclo di vita fisso.
+  description: Dynamics NAV 2009 R2 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 01925fe0f661312fdda3eef0517d8e99c15bde06
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857079"
 name: Dynamics NAV 2009 R2
 summary: >+
-  Dynamics NAV 2009 R2 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Dynamics NAV 2009 R2 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 03/15/2011
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> Le date di fine del supporto per NAV 2009 sono estese come mostrato nella figura."
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> Le date di fine del supporto relative a NAV 2009 vengono estese come illustrato."
