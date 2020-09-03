@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Internet Information Services 8,0
-  description: Microsoft Internet Information Services 8,0 segue il criterio del ciclo di vita dei componenti.
+  title: Microsoft Internet Information Services 8.0
+  description: Microsoft Internet Information Services 8.0 segue i criteri relativi al ciclo di vita dei componenti.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71be1061b611798489998e4437c1e3d80bbe19b3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824177"
-name: Microsoft Internet Information Services 8,0
+name: Microsoft Internet Information Services 8.0
 summary: >+
-  Microsoft Internet Information Services 8,0 segue il criterio del ciclo di vita dei [componenti](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Microsoft Internet Information Services 8.0 segue i criteri relativi al ciclo di vita dei [componenti](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/30/2012
-content: "> [!TIP]\n> Questa versione è nota come componente che segue il ciclo di vita del supporto del relativo prodotto principale, Windows Server 2012 e Windows 8\n\n## <a name=\"links\"></a>Links \n* [Windows Server 2012](/lifecycle/products/windows-server-2012)\n* [Windows 8](/lifecycle/products/windows-8)"
+content: "> [!TIP]\n> Questa versione è nota come un componente che segue il ciclo di vita relativo al supporto del prodotto principale, Windows Server 2012 e Windows 8\n\n## <a name=\"links\"></a>Collegamenti \n* [Windows Server 2012](/lifecycle/products/windows-server-2012)\n* [Windows 8](/lifecycle/products/windows-8)"

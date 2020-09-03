@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows HPC Server 2008 R2
-  description: Windows HPC Server 2008 R2 segue il criterio del ciclo di vita fisso.
+  description: Windows HPC Server 2008 R2 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: d9cbccd562c996dc7b138fd6e110950ef701bce8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824105"
 name: Windows HPC Server 2008 R2
 summary: >
-  Windows HPC Server 2008 R2 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Windows HPC Server 2008 R2 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 
   > [!IMPORTANT]
 
-  > Il supporto per questo prodotto è terminato. Vedere le indicazioni sulla migrazione seguenti.
+  > Il supporto per questo prodotto è terminato. Vedere le linee guida per la migrazione riportate di seguito.
 products:
 - windows
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 10/17/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](https://aka.ms/AA1ovn4)"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](https://aka.ms/AA1ovn4)"

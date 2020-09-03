@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Groove Server 2010
-  description: Groove Server 2010 segue il criterio del ciclo di vita fisso.
+  description: Groove Server 2010 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ca52b878949f03f4f8b164e8078951ea99b39ea
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824857"
 name: Groove Server 2010
 summary: >+
-  Groove Server 2010 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Groove Server 2010 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [Criteri del Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Guida alla migrazione](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)\n* [Indicazioni sulla migrazione](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)"

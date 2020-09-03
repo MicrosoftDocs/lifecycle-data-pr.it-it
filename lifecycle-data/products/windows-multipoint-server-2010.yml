@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Server multipunto di Windows 2010
-  description: Windows MultiPoint Server 2010 segue il criterio del ciclo di vita fisso.
+  title: Windows MultiPoint Server 2010
+  description: Windows MultiPoint Server 2010 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: fe2e8699f2c0dd5d2303ba32477aa39287a7c354
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824608"
-name: Server multipunto di Windows 2010
+name: Windows MultiPoint Server 2010
 summary: >+
-  Windows MultiPoint Server 2010 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Windows MultiPoint Server 2010 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
-  Si applica alle edizioni seguenti: Academic, standard
+  Questo vale per le seguenti edizioni: Academic e Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 05/13/2010
   endDate: 07/14/2020
-content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](https://aka.ms/AA1ovn4)\n* [Ulteriori informazioni sulla migrazione](/windows-server/get-started/installation-and-upgrade)\n* [Informazioni sul prodotto](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Accademico\n* Standard"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](https://aka.ms/AA1ovn4)\n* [Ulteriori indicazioni sulla migrazione](/windows-server/get-started/installation-and-upgrade)\n* [Informazioni sul prodotto](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Academic\n* Standard"

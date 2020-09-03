@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Customer Care Framework 2005 .NET 2,0 Edition
-  description: Microsoft Customer Care Framework 2005 .NET 2,0 Edition segue il criterio del ciclo di vita fisso.
+  title: Microsoft Customer Care Framework 2005 .NET 2.0 Edition
+  description: Microsoft Customer Care Framework 2005 .NET 2.0 Edition segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: c319c9a4362d847d9ac7fe80a48a13b3d7209cdd
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824768"
-name: Microsoft Customer Care Framework 2005 .NET 2,0 Edition
+name: Microsoft Customer Care Framework 2005 .NET 2.0 Edition
 summary: >
-  Microsoft Customer Care Framework 2005 .NET 2,0 Edition segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Microsoft Customer Care Framework 2005 .NET 2.0 Edition segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 
   > [!IMPORTANT]
 
-  > Il supporto è terminato. Vedere le indicazioni sulla migrazione seguenti.
+  > Il supporto è terminato. Vedere le linee guida per la migrazione riportate di seguito.
 products:
 - customer-care-framework
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 11/11/2006
   endDate: 01/10/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](https://blogs.msdn.microsoft.com/crm/2016/04/07/microsoft-customer-care-framework-support-lifecycle-announcement)"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](https://blogs.msdn.microsoft.com/crm/2016/04/07/microsoft-customer-care-framework-support-lifecycle-announcement)"

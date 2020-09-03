@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Data Protection Manager 2006
-  description: Microsoft System Center Data Protection Manager 2006 segue il criterio del ciclo di vita fisso.
+  description: Microsoft System Center Data Protection Manager 2006 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: e1d39ae874bd9d3a0491711fa466958ed75fae39
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824699"
 name: Microsoft System Center Data Protection Manager 2006
 summary: >+
-  Microsoft System Center Data Protection Manager 2006 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Microsoft System Center Data Protection Manager 2006 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2005
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Links \n* [Criteri del Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Guida alla migrazione](https://blogs.technet.microsoft.com/dpm/2016/03/24/system-center-data-protection-manager-2006-end-of-support)"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)\n* [Indicazioni sulla migrazione](https://blogs.technet.microsoft.com/dpm/2016/03/24/system-center-data-protection-manager-2006-end-of-support)"
