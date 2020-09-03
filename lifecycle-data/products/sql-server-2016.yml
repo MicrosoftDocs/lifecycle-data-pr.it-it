@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SQL Server 2016
-  description: SQL Server 2016 segue il criterio del ciclo di vita fisso.
+  description: SQL Server 2016 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 08/12/2020
   ms.openlocfilehash: e54ceed1e30fb7075b341e068c5d65d7c9e95858
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "892763"
 name: SQL Server 2016
 summary: >+
-  SQL Server 2016 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  SQL Server 2016 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
-  Si applica alle edizioni seguenti: Developer, Enterprise, Enterprise Core, Express, standard, Web
+  Questo vale per le seguenti edizioni: Developer, Enterprise, Enterprise Core, Express, Standard e Web
 
 products:
 - sql-server
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2016
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Links \n* [Criteri del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Developer\n* Grandi aziende\n* Core Enterprise\n* Express\n* Standard\n* Web"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* Standard\n* Web"
