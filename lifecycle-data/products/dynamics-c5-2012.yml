@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics C5 2012
-  description: Dynamics C5 2012 segue il criterio del ciclo di vita fisso.
+  description: Dynamics C5 2012 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e2fde2211933228e6bd97265e65fd5c7d711bde
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857000"
 name: Dynamics C5 2012
 summary: >+
-  Dynamics C5 2012 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Dynamics C5 2012 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
-  Si applica alle edizioni seguenti: standard
+  Questo articolo si riferisce alle seguenti edizioni: Standard
 
 products:
 - dynamics
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 01/10/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](/dynamics-nav-app/localfunctionality/denmark/ui-extensions-c5-data-migration)\n* [Criteri del Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Standard"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](/dynamics-nav-app/localfunctionality/denmark/ui-extensions-c5-data-migration)\n* [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Standard"

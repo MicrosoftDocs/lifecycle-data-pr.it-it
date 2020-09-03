@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Palmare Windows Embedded 8,1
-  description: Windows Embedded 8,1 Handheld segue il criterio del ciclo di vita fisso.
+  title: Windows Embedded 8.1 Handheld
+  description: Windows Embedded 8.1 Handheld segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0b19ad1d2a53ee16861bf63a21f6924b3bea1c67
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857200"
-name: Palmare Windows Embedded 8,1
+name: Windows Embedded 8.1 Handheld
 summary: >
-  Windows Embedded 8,1 Handheld segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Windows Embedded 8.1 Handheld segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 
   > [!IMPORTANT]
 
-  > Il supporto per questo prodotto è terminato. Se l'organizzazione continua a mantenere queste piattaforme e ha altre domande, contattare il team dell'account.
+  > Il supporto per questo prodotto è terminato. Se la propria organizzazione continua a mantenere queste piattaforme e ha ulteriori domande, contattare il proprio account team.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2014
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Links \n* [Windows 10](/windows/iot-core/windows-iot-core)"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Windows 10 IoT](/windows/iot-core/windows-iot-core)"

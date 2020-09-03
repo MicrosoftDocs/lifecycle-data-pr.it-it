@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization hosting 5,1 per desktop di Windows
-  description: Microsoft Application Virtualization hosting 5,1 for Windows Desktops segue il criterio del ciclo di vita fisso.
+  title: Microsoft Application Virtualization Hosting 5.1 per desktop Windows
+  description: Microsoft Application Virtualization Hosting 5.1 per Windows Desktop segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: c6fc257da84e3276165d0ab97a736120c1424172
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857060"
-name: Microsoft Application Virtualization hosting 5,1 per desktop di Windows
+name: Microsoft Application Virtualization Hosting 5.1 per desktop Windows
 summary: >+
-  Microsoft Application Virtualization hosting 5,1 for Windows Desktops segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Microsoft Application Virtualization Hosting 5.1 per Windows Desktop segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
-  Si applica alle edizioni seguenti: per i desktop di Windows
+  Questo vale per le seguenti edizioni: per Windows Desktop
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2015
   endDate: 04/14/2026
-content: "\n## <a name=\"links\"></a>Links \n* [Informazioni sul prodotto](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n\n\n## <a name=\"editions\"></a>Edizioni \n* per i desktop di Windows"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Informazioni sul prodotto](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n\n\n## <a name=\"editions\"></a>Edizioni \n* per Windows Desktop"
