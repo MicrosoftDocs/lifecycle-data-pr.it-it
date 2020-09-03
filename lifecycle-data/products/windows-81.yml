@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 8.1
-  description: Windows 8,1 segue il criterio del ciclo di vita fisso.
+  description: Windows 8.1 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 08/21/2020
   ms.openlocfilehash: 42fc7e148a73c5583047b7bed3862484dea56340
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906661"
 name: Windows 8.1
 summary: >+
-  Windows 8,1 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Windows 8.1 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
-  Questo vale per le edizioni seguenti: Enterprise, Enterprise N, N, Pro with Media Center, Professional, Professional N, SL
+  Questo articolo si riferisce alle seguenti edizioni: Enterprise, Enterprise N, N, Pro con Media Center, Professional, Professional N, SL
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2013
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Links \n* [Domande frequenti sul ciclo di vita-prodotti Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Grandi aziende\n* Enterprise N\n* N\n* Pro con centro multimediale\n* Professional\n* N professionale\n* SL"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Domande frequenti sul ciclo di vita - Prodotti Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Enterprise\n* Enterprise N\n* N\n* Pro con Media Center\n* Professional\n* Professional N\n* SL"

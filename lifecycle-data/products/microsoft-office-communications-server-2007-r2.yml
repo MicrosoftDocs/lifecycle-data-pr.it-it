@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Communications Server 2007 R2
-  description: Microsoft Office Communications Server 2007 R2 segue il criterio del ciclo di vita fisso.
+  description: Microsoft Office Communications Server 2007 R2 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 08/07/2020
   ms.openlocfilehash: 229bad5ba97248c738f950b7252cd9c69e238cf1
   ms.sourcegitcommit: 41160e72cd21aa5bf1748336c3975d8ec9b9ac06
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 08/07/2020
   ms.locfileid: "885834"
 name: Microsoft Office Communications Server 2007 R2
-summary: "Microsoft Office Communications Server 2007 R2 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .\n\nCiò si applica alle edizioni seguenti: tutti gli elementi applicabili, Enterprise, gateway XMPP\n\n> [!IMPORTANT]\n> Il supporto per questo prodotto è terminato. Vedere linee guida sulla migrazione. \n"
+summary: "Microsoft Office Communications Server 2007 R2 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.\n\nQuesto articolo si riferisce alle seguenti edizioni: Tutte le versioni applicabili, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> Il supporto per questo prodotto è terminato. Vedere la guida per la migrazione. \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> Il gateway XMPP è stato rilasciato il 9/28/2009.\n\n## <a name=\"editions\"></a>Edizioni \n* Tutto applicabile\n* Grandi aziende\n* Gateway XMPP"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> Gateway XMPP, rilasciata il 28/09/2009.\n\n## <a name=\"editions\"></a>Edizioni \n* Tutte le versioni applicabili\n* Enterprise\n* Gateway XMPP"

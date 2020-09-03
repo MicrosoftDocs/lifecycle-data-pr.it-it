@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Industria di Windows Embedded 8,1
-  description: L'industria Windows Embedded 8,1 segue il criterio del ciclo di vita fisso.
+  title: Windows Embedded 8.1 Industry
+  description: Windows Embedded 8.1 Industry segue i criteri fissi relativi al ciclo di vita.
   ms.date: 08/21/2020
   ms.openlocfilehash: f18f36a1692ef77948c82bce5d1b0a0208c3dc9d
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906920"
-name: Industria di Windows Embedded 8,1
+name: Windows Embedded 8.1 Industry
 summary: >+
-  L'industria Windows Embedded 8,1 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Windows Embedded 8.1 Industry segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
-  Ciò si applica alle edizioni seguenti: Enterprise, Pro, sideload
+  Questo vale per le seguenti edizioni: Enterprise, Pro e Sideloading
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 07/11/2023
-content: "\n## <a name=\"links\"></a>Links \n* [Domande frequenti sul ciclo di vita-prodotti Windows](https://support.microsoft.co/help/18581)\n* [Domande frequenti su Windows Embedded 8,1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Grandi aziende\n* Pro\n* Sideload"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Domande frequenti sul ciclo di vita - Prodotti Windows](https://support.microsoft.co/help/18581)\n* [Domande frequenti su Windows Embedded 8.1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Enterprise\n* Pro\n* Sideloading"

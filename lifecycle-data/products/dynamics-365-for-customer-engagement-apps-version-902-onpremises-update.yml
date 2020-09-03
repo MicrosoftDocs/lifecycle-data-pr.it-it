@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 per le app per l'impegno dei clienti, versione 9.0.2 (aggiornamento locale)
-  description: Dynamics 365 per le app per l'impegno dei clienti, la versione 9.0.2 (aggiornamento locale) segue il criterio del ciclo di vita fisso.
+  title: Dynamics 365 for Customer Engagement Apps, versione 9.0.2 (aggiornamento locale)
+  description: Dynamics 365 for Customer Engagement Apps, versione 9.0.2 (aggiornamento locale) segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 11e70e4e8ef3fb18ab06a385fbe4d9a434121ac6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870294"
-name: Dynamics 365 per le app per l'impegno dei clienti, versione 9.0.2 (aggiornamento locale)
+name: Dynamics 365 for Customer Engagement Apps, versione 9.0.2 (aggiornamento locale)
 summary: >+
-  Dynamics 365 per le app per l'impegno dei clienti, la versione 9.0.2 (aggiornamento locale) segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Dynamics 365 for Customer Engagement Apps, versione 9.0.2 (aggiornamento locale) segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release (ver 9.0)
   startDate: 10/31/2018
   endDate: 01/13/2026
-content: "\n## <a name=\"links\"></a>Links \n* [Informazioni sul supporto](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Informazioni di supporto](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)"
