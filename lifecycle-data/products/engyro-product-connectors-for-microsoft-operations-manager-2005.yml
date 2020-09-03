@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Connettori di prodotto di Gyro per Microsoft Operations Manager 2005
-  description: I connettori di prodotto per Microsoft Operations Manager 2005 seguono il criterio del ciclo di vita fisso.
+  title: Engyro Product Connectors per Microsoft Operations Manager 2005
+  description: Engyro Product Connectors per Microsoft Operations Manager 2005 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: b421124e88b9e5ee8e28e9added4a7876c9405dd
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824875"
-name: Connettori di prodotto di Gyro per Microsoft Operations Manager 2005
+name: Engyro Product Connectors per Microsoft Operations Manager 2005
 summary: >+
-  I connettori di prodotto per Microsoft Operations Manager 2005 seguono il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Engyro Product Connectors per Microsoft Operations Manager 2005 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:
