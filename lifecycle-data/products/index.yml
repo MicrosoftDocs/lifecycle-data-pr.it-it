@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
-title: Ricerca di informazioni sul ciclo di vita di prodotti e servizi (anteprima)
+title: Ricerca di informazioni sul ciclo di vita di prodotti e servizi
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Questa pagina è in fase di sviluppo e sarà completamente disponibile il 2 settembre. Nel frattempo, è possibile visualizzare un elenco completo dei prodotti Microsoft con le relative tempistiche di supporto e i dettagli all'indirizzo [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Esportare le informazioni sul ciclo di vita dalla pagina [Esportazione ciclo di vita](/lifecycle/export/products). \n\n\nMicrosoft Lifecycle fornisce linee guida coerenti e attendibili relative al supporto per tutta la durata del ciclo di vita di un prodotto, aiutando i clienti a gestire i propri investimenti e ambienti IT, pianificando strategicamente allo stesso tempo il futuro.\n\n\nEseguire una ricerca nell'elenco di prodotti e servizi commerciali Microsoft in basso e quindi selezionare il risultato per trovare le tempistiche di supporto e manutenzione, gli aggiornamenti necessari, le informazioni sulla migrazione e i requisiti di sistema."
+summary: "\n> [!NOTE]\n> Esportare le informazioni sul ciclo di vita dalla pagina [Esportazione ciclo di vita](/lifecycle/products/export).\n\n\nMicrosoft Lifecycle fornisce linee guida coerenti e attendibili relative al supporto per tutta la durata del ciclo di vita di un prodotto, aiutando i clienti a gestire i propri investimenti e ambienti IT, pianificando strategicamente allo stesso tempo il futuro.\n\n\nEseguire una ricerca nell'elenco di prodotti e servizi commerciali Microsoft in basso e quindi selezionare il risultato per trovare le tempistiche di supporto e manutenzione, gli aggiornamenti necessari, le informazioni sulla migrazione e i requisiti di sistema."
 metadata:
-  ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
-  ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+  ms.openlocfilehash: c874ff14f0c8c755cda09d9e1580e196ae601e7e
+  ms.sourcegitcommit: adca90be401b37b1ccfe6a6ce3fe265bd2e1f0de
   ms.translationtype: HT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 08/17/2020
-  ms.locfileid: "899844"
+  ms.lasthandoff: 09/02/2020
+  ms.locfileid: "943038"
