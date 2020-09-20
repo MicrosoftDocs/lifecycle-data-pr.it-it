@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Visual J# versione 2,0 Redistributable Package
-  description: Microsoft Visual J# versione 2,0 Redistributable Package segue il criterio del ciclo di vita fisso.
+  title: Microsoft Visual J# versione 2:0 Redistributable Package
+  description: Microsoft Visual J# versione 2:0 Redistributable Package segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: fa32b69860aec252b7d1068ad2e130700f9d0b92
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824288"
-name: Microsoft Visual J# versione 2,0 Redistributable Package
+name: Microsoft Visual J# versione 2:0 Redistributable Package
 summary: >+
-  Microsoft Visual J# versione 2,0 Redistributable Package segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Microsoft Visual J# versione 2:0 Redistributable Package segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 04/22/2006
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Informazioni sul supporto di Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> Il supporto per questo prodotto è terminato. Vedere di seguito per le indicazioni sulla migrazione."
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Informazioni per il supporto di Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> Il supporto per questo prodotto è terminato. Per istruzioni sulla migrazione, vedere di seguito."

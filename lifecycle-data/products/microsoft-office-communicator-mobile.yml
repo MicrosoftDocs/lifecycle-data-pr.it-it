@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Communicator Mobile
-  description: Microsoft Office Communicator Mobile segue il criterio del ciclo di vita fisso.
+  description: Microsoft Office Communicator Mobile segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: d1740abcef5c843ea1c87dd287111eb7d15ec9ad
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825095"
 name: Microsoft Office Communicator Mobile
 summary: >+
-  Microsoft Office Communicator Mobile segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Microsoft Office Communicator Mobile segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 07/21/2006
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)"

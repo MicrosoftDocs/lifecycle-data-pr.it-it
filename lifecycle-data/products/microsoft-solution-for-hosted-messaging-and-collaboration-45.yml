@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Soluzione Microsoft per la messaggistica e la collaborazione ospitate 4,5
-  description: Microsoft Solution for Hosted Messaging and Collaboration 4,5 segue il criterio del ciclo di vita fisso.
+  title: Soluzione Microsoft per la messaggistica e la collaborazione in host 4.5
+  description: La soluzione Microsoft per la messaggistica e la collaborazione in host 4.5 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: cbc7bce389f60d1972cae075005525780c82eed0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824387"
-name: Soluzione Microsoft per la messaggistica e la collaborazione ospitate 4,5
+name: Soluzione Microsoft per la messaggistica e la collaborazione in host 4.5
 summary: >+
-  Microsoft Solution for Hosted Messaging and Collaboration 4,5 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  La soluzione Microsoft per la messaggistica e la collaborazione in host 4.5 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:
