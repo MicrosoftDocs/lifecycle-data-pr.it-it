@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Embedded Device Manager 2011
-  description: Windows Embedded Device Manager 2011 segue il criterio del ciclo di vita fisso.
+  description: Windows Embedded Device Manager 2011 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 09/01/2020
   keywords: Client,SDK,Server
   ms.openlocfilehash: 8d46a10b12894b95bfb25872c893b3148aa7a550
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939931"
 name: Windows Embedded Device Manager 2011
 summary: >
-  Windows Embedded Device Manager 2011 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Windows Embedded Device Manager 2011 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
-  Si applica alle edizioni seguenti: client, SDK, server
+  Questo vale per le seguenti edizioni: Client, SDK, Server
 
 
   > [!IMPORTANT]
