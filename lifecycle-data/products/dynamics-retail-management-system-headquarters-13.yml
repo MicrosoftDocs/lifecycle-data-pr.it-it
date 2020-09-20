@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics Retail Management System 1,3
-  description: Dynamics Retail Management System 1,3 segue il criterio del ciclo di vita fisso.
+  title: Dynamics Retail Management System 1.3
+  description: Dynamics Retail Management System 1.3 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 09/01/2020
   keywords: Headquarters,Store Operations
   ms.openlocfilehash: a3713fd375b666673f687b89fe23492b072c8c3b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931706"
-name: Dynamics Retail Management System 1,3
+name: Dynamics Retail Management System 1.3
 summary: >+
-  Dynamics Retail Management System 1,3 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Dynamics Retail Management System 1.3 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
-  Questo articolo si riferisce alle seguenti edizioni: Headquarters, Store Operations
+  Questo vale per le seguenti edizioni: Headquarters, Store Operations
 
 products:
 - dynamics

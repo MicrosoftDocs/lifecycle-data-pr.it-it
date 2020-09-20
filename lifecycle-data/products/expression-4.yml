@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Espressione 4
-  description: L'espressione 4 segue il criterio del ciclo di vita fisso.
+  title: Expression 4
+  description: Expression 4 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio Ultimate,Web
   ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930866"
-name: Espressione 4
+name: Expression 4
 summary: >+
-  L'espressione 4 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Expression 4 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
-  Si applica alle edizioni seguenti: design, encoder, Studio Ultimate, Web
+  Questo articolo si riferisce alle seguenti edizioni: Design, Encoder, Studio Ultimate, Web
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/26/2010
   endDate: 07/14/2020
-content: "\n\n> [!NOTE]\n> La fine del supporto mainstream per Expression Studio Ultimate 4 è il 13 ottobre 2015.\n\n## <a name=\"editions\"></a>Edizioni \n* Struttura\n* Encoder\n* Studio Ultimate\n* Web"
+content: "\n\n> [!NOTE]\n> La fine del supporto mainstream per Expression Studio Ultimate 4 è il 13 ottobre 2015.\n\n## <a name=\"editions\"></a>Edizioni \n* Design\n* Encoder\n* Studio Ultimate\n* Web"

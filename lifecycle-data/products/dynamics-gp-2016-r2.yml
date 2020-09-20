@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics GP 2016 R2
-  description: Dynamics GP 2016 R2 segue il criterio del ciclo di vita fisso.
+  description: Dynamics GP 2016 R2 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: f1a3cb25fec8f760a48d82816a3afc7a2414e610
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857083"
 name: Dynamics GP 2016 R2
 summary: >+
-  Dynamics GP 2016 R2 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Dynamics GP 2016 R2 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2016
   endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>Links \n* [Informazioni aggiuntive e linee guida per la migrazione](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [Informazioni sul prodotto](/dynamics-gp/)"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Ulteriori informazioni e linee guida per la migrazione](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [Informazioni sul prodotto](/dynamics-gp/)"

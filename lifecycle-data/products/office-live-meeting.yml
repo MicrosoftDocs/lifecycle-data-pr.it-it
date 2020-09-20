@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Office Live Meeting
-  description: Office Live Meeting segue i criteri di ciclo di vita moderni.
+  description: Office Live Meeting segue i criteri moderni relativi al ciclo di vita.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928905"
 name: Office Live Meeting
-summary: "Office Live Meeting segue i criteri di ciclo di vita [moderni](/lifecycle/policies/modern) .\n\nQuesto articolo si riferisce alle seguenti edizioni: Standard\n\n> [!IMPORTANT]\n> Il supporto per il servizio è terminato. Vedere le linee guida per la migrazione riportate di seguito. \n"
+summary: "Office Live Meeting segue i criteri [moderni](/lifecycle/policies/modern) relativi al ciclo di vita.\n\nQuesto articolo si riferisce alle seguenti edizioni: Standard\n\n> [!IMPORTANT]\n> Il supporto per questo servizio è terminato. Vedere le linee guida per la migrazione riportate di seguito. \n"
 products:
 - office
 policyType: modern-online
