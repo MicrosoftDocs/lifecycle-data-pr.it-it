@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Serie StorSimple 5000/7000
-  description: StorSimple 5000/7000 Series segue il criterio del ciclo di vita fisso.
+  title: StorSimple serie 5000/7000
+  description: StorSimple serie 5000/7000 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9f41ce486a68b9b0e08999801f781e9f1b37330a
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857214"
-name: Serie StorSimple 5000/7000
-summary: "StorSimple 5000/7000 Series segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> Il supporto per questo prodotto è terminato. Vedere le indicazioni sulla migrazione seguenti. \n"
+name: StorSimple serie 5000/7000
+summary: "StorSimple serie 5000/7000 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.\n\n\n> [!IMPORTANT]\n> Il supporto per questo prodotto è terminato. Vedere le linee guida per la migrazione riportate di seguito. \n"
 products:
 - azure
 policyType: fixed-mainstream-only
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 11/15/2012
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](https://azure.microsoft.com/updates/azure-storsimple-5000-7000-series-will-no-longer-be-supported-starting-july-9-2019/)"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](https://azure.microsoft.com/updates/azure-storsimple-5000-7000-series-will-no-longer-be-supported-starting-july-9-2019/)"
