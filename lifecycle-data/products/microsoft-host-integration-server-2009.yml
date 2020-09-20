@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Host Integration Server 2009
-  description: Microsoft Host Integration Server 2009 segue il criterio del ciclo di vita fisso.
+  description: Microsoft Host Integration Server 2009 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 08b1c9c6b318e238412255c9008244cbd13c7605
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824429"
 name: Microsoft Host Integration Server 2009
-summary: "Microsoft Host Integration Server 2009 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> Il supporto per questo prodotto è terminato. Vedere le indicazioni sulla migrazione seguenti. \n"
+summary: "Microsoft Host Integration Server 2009 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.\n\n\n> [!IMPORTANT]\n> Il supporto per questo prodotto è terminato. Vedere le linee guida per la migrazione riportate di seguito. \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](https://blogs.msdn.microsoft.com/hostintegrationserver/2017/08/16/end-of-support-for-host-integration-server-2009/)"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](https://blogs.msdn.microsoft.com/hostintegrationserver/2017/08/16/end-of-support-for-host-integration-server-2009/)"
