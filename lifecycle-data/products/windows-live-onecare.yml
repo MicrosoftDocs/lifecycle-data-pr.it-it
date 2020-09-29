@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Live OneCare
-  description: Windows Live OneCare segue i criteri di ciclo di vita moderni.
+  description: Windows Live OneCare segue i criteri moderni relativi al ciclo di vita.
   ms.date: 08/19/2020
   ms.openlocfilehash: f37abdbbca933797a22116b3c1aaf794ac0cd1a2
   ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "902806"
 name: Windows Live OneCare
 summary: >+
-  Windows Live OneCare segue i criteri di ciclo di vita [moderni](/lifecycle/policies/modern) .
+  Windows Live OneCare segue i [criteri moderni](/lifecycle/policies/modern) relativi al ciclo di vita.
 
 
 products:

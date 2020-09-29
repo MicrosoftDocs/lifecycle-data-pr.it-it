@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visualizzatore di report di Microsoft
-  description: Microsoft Report Viewer segue il criterio del ciclo di vita moderno.
+  title: Microsoft Report Viewer
+  description: Microsoft Report Viewer segue i criteri moderni relativi al ciclo di vita.
   ms.date: 08/19/2020
   ms.openlocfilehash: 9025fd3d1b84a581d70de562ab977e3aa01870fb
   ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "904932"
-name: Visualizzatore di report di Microsoft
+name: Microsoft Report Viewer
 summary: >+
-  Microsoft Report Viewer segue il criterio del ciclo di vita [moderno](/lifecycle/policies/modern) .
+  Microsoft Report Viewer segue i [criteri moderni](/lifecycle/policies/modern) relativi al ciclo di vita.
 
 
 products:
