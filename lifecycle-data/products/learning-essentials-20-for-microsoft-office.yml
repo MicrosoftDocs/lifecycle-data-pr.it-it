@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Learning Essentials 2,0 per Microsoft Office
-  description: Learning Essentials 2,0 per Microsoft Office segue il criterio del ciclo di vita del componente.
+  title: Learning Essentials 2.0 per Microsoft Office
+  description: Learning Essentials 2.0 per Microsoft Office segue i criteri relativi al ciclo di vita dei componenti.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1bdfd924e319c432bbaf5d2b75f5945ca6408915
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824835"
-name: Learning Essentials 2,0 per Microsoft Office
+name: Learning Essentials 2.0 per Microsoft Office
 summary: >+
-  Learning Essentials 2,0 per Microsoft Office segue il criterio del ciclo di vita del [componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Learning Essentials 2.0 per Microsoft Office segue i criteri relativi al ciclo di vita dei [componenti](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

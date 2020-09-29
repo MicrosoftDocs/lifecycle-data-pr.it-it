@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Automotive 4,2
-  description: Windows Automotive 4,2 segue il criterio del ciclo di vita fisso.
+  title: Windows Automotive 4.2
+  description: Windows Automotive 4.2 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: a2671ea93a2852928c59d836ed4ebc8412963b61
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824106"
-name: Windows Automotive 4,2
+name: Windows Automotive 4.2
 summary: >
-  Windows Automotive 4,2 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Windows Automotive 4.2 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 
