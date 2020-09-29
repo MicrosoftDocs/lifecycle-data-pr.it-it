@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center Configuration Manager (LTSB-versione 1606)
-  description: Microsoft System Center Configuration Manager (LTSB-Version 1606) segue il criterio del ciclo di vita fisso.
+  title: Microsoft System Center Configuration Manager (LTSB - versione 1606)
+  description: Microsoft System Center Configuration Manager (LTSB - versione 1606) segue i criteri fissi relativi al ciclo di vita.
   ms.date: 08/20/2020
   ms.openlocfilehash: 606034d7f3694f3e06a47bdc5e1a45561102c238
   ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905892"
-name: Microsoft System Center Configuration Manager (LTSB-versione 1606)
+name: Microsoft System Center Configuration Manager (LTSB - versione 1606)
 summary: >+
-  Microsoft System Center Configuration Manager (LTSB-Version 1606) segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Microsoft System Center Configuration Manager (LTSB - versione 1606) segue i [criteri fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/12/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Links \n* [Informazioni sul servizio e sul supporto tecnico](/sccm/core/understand/learn-more-editions)"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Informazioni sul servizio e sul supporto](/sccm/core/understand/learn-more-editions)"

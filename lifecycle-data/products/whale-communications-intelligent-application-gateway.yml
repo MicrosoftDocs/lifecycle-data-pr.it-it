@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Gateway di applicazioni Intelligent Communications Whale
-  description: Whale Communications Intelligent Application Gateway segue il criterio del ciclo di vita fisso.
+  title: Whale Communications Intelligent Application Gateway
+  description: Whale Communications Intelligent Application Gateway segue i criteri fissi relativi al ciclo di vita.
   ms.date: 08/21/2020
   ms.openlocfilehash: 4946cfbd0c53706853138bd707157a5c318b8dc6
   ms.sourcegitcommit: bc7fcda30191f92db77ed2e7f74d5816ac276a55
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907145"
-name: Gateway di applicazioni Intelligent Communications Whale
+name: Whale Communications Intelligent Application Gateway
 summary: >+
-  Whale Communications Intelligent Application Gateway segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Whale Communications Intelligent Application Gateway segue i [criteri fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:

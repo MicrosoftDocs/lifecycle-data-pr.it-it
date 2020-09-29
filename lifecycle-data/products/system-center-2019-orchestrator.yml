@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Orchestratore di System Center 2019
-  description: Il sistema di orchestrazione System Center 2019 segue il criterio del ciclo di vita fisso.
+  title: System Center 2019 Orchestrator
+  description: System Center 2019 Orchestrator segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 02f342dcd6e853e150a1546c6b168def7b19164f
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870411"
-name: Orchestratore di System Center 2019
+name: System Center 2019 Orchestrator
 summary: >+
-  Il sistema di orchestrazione System Center 2019 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  System Center 2019 Orchestrator segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 03/14/2019
   endDate: 04/09/2029
-content: "\n## <a name=\"links\"></a>Links \n* [Informazioni sul prodotto](/system-center/)"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Informazioni sul prodotto](/system-center/)"
