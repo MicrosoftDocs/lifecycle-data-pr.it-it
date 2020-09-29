@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Set di strumenti di diagnostica e ripristino Microsoft 10,0
-  description: Microsoft Diagnostics and Recovery Toolset 10,0 segue il criterio del ciclo di vita fisso.
+  title: Set di strumenti di diagnostica e ripristino Microsoft 10.0
+  description: Set di strumenti di diagnostica e ripristino Microsoft 10.0 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 46c297ae7fa494c3a70d86bf5ce3f8ec62e906f4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856865"
-name: Set di strumenti di diagnostica e ripristino Microsoft 10,0
+name: Set di strumenti di diagnostica e ripristino Microsoft 10.0
 summary: >+
-  Microsoft Diagnostics and Recovery Toolset 10,0 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Set di strumenti di diagnostica e ripristino Microsoft 10.0 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:

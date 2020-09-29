@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Orchestratore di System Center 2016
-  description: Il sistema di orchestrazione System Center 2016 segue il criterio del ciclo di vita fisso.
+  title: System Center 2016 Orchestrator
+  description: System Center 2016 Orchestrator segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: c5725bbb0002c3952fb18ff688be105c808e190b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857211"
-name: Orchestratore di System Center 2016
+name: System Center 2016 Orchestrator
 summary: >+
-  Il sistema di orchestrazione System Center 2016 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  System Center 2016 Orchestrator segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:

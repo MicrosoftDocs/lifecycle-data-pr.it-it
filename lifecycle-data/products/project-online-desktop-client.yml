@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Client desktop di Project Online
-  description: Il client desktop di Project online segue i criteri di ciclo di vita moderni.
+  description: Client desktop di Project Online segue i criteri moderni relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2d87e5120f17d4b087c13f5947f9c099d4ed52a5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856822"
 name: Client desktop di Project Online
 summary: >+
-  Il client desktop di Project online segue i criteri di ciclo di vita [moderni](/lifecycle/policies/modern) .
+  Client desktop di Project Online segue i criteri [moderni](/lifecycle/policies/modern) relativi al ciclo di vita.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Links \n* [Requisiti di sistema](https://products.office.com/office-system-requirements)\n* [Informazioni di manutenzione](https://technet.microsoft.com/library/mt584223.aspx)"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Requisiti di sistema](https://products.office.com/office-system-requirements)\n* [Informazioni sulla manutenzione](https://technet.microsoft.com/library/mt584223.aspx)"
