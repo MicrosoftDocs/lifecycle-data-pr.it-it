@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Project 2016
-  description: Project 2016 segue il criterio del ciclo di vita fisso.
+  description: Project 2016 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 09/01/2020
   keywords: Professional,Standard
   ms.openlocfilehash: 5d4110f5d6f16efd84205e08dc375cdd839c3220
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926537"
 name: Project 2016
 summary: >+
-  Project 2016 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Project 2016 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
   Questo articolo si riferisce alle seguenti edizioni: Professional, Standard
