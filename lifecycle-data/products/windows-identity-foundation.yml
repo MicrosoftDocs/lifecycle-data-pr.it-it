@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Identity Foundation
-  description: Windows Identity Foundation segue il criterio del ciclo di vita fisso.
+  description: Windows Identity Foundation segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: bf0feb07b0de728c2a1e19c8e9476a943719a6b6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "824095"
 name: Windows Identity Foundation
 summary: >+
-  Windows Identity Foundation segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Windows Identity Foundation segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:

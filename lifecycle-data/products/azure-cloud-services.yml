@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Servizi cloud di Azure
-  description: Servizi cloud di Azure segue il criterio del ciclo di vita moderno.
+  description: I servizi cloud di Azure seguono i criteri moderni relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: aab601bc296dcf08a3f860220bf93b35fa67e335
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825029"
 name: Servizi cloud di Azure
 summary: >+
-  Servizi cloud di Azure segue il criterio del ciclo di vita [moderno](/lifecycle/policies/modern) .
+  I servizi cloud di Azure seguono i criteri [moderni](/lifecycle/policies/modern) relativi al ciclo di vita.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/27/2008
-content: "\n## <a name=\"links\"></a>Links \n* [Informazioni sulla supportabilità e sulla politica di pensionamento di Azure Guest OS](/azure/cloud-services/cloud-services-guestos-retirement-policy)"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Informazioni sulle norme relative al supporto e al ritiro del sistema operativo guest Azure](/azure/cloud-services/cloud-services-guestos-retirement-policy)"
