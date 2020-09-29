@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Hyper-V Server 2012
-  description: Hyper-V Server 2012 segue il criterio del ciclo di vita fisso.
+  description: Hyper-V Server 2012 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: eebd886dc19d95e127d205e34a4afc89ccbb9500
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856891"
 name: Hyper-V Server 2012
 summary: >+
-  Hyper-V Server 2012 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Hyper-V Server 2012 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Serie di StorSimple 1200 di Azure
-  description: Azure StorSimple 1200 Series segue il criterio del ciclo di vita fisso.
+  title: Azure StorSimple serie 1200
+  description: La serie 1200 di Azure StorSimple segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 82f3a04f6c89120819c1db952a04ddbd45d4f9c9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856733"
-name: Serie di StorSimple 1200 di Azure
+name: Azure StorSimple serie 1200
 summary: >+
-  Azure StorSimple 1200 Series segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  La serie 1200 di Azure StorSimple segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/28/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Guida alla migrazione](/azure/storage/files/storage-files-migration-storsimple-1200)"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](/azure/storage/files/storage-files-migration-storsimple-1200)"

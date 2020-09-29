@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Office Online Server
-  description: Office Online Server segue i criteri di ciclo di vita moderni.
+  description: Office Online Server segue i criteri moderni relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: 953cd5a923a96f676bc0204fc7c9419e95889496
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "856824"
 name: Office Online Server
 summary: >+
-  Office Online Server segue i criteri di ciclo di vita [moderni](/lifecycle/policies/modern) .
+  Office Online Server segue i criteri [moderni](/lifecycle/policies/modern) relativi al ciclo di vita.
 
 
 products:

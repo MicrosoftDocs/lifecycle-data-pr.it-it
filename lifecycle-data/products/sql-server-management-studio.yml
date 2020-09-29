@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SQL Server Management Studio
-  description: SQL Server Management Studio segue i criteri di ciclo di vita moderni.
+  description: SQL Server Management Studio segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
   ms.openlocfilehash: f75480af28215773c8d23bc06a30408940015a5c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857154"
 name: SQL Server Management Studio
 summary: >+
-  SQL Server Management Studio segue i criteri di ciclo di vita [moderni](/lifecycle/policies/modern) .
+  SQL Server Management Studio segue i criteri [fissi](/lifecycle/policies/modern) relativi al ciclo di vita.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 05/27/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Informazioni di manutenzione](/sql/ssms/support-policy?view)"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Informazioni sulla manutenzione](/sql/ssms/support-policy?view)"
