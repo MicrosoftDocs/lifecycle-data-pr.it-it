@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Access 2019
-  description: Access 2019 segue il criterio del ciclo di vita fisso.
+  description: Access 2019 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 9cb6474fa4cc37df413fc8db00203768b06973a0
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940153"
 name: Access 2019
 summary: >+
-  Access 2019 segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Access 2019 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
   Questo articolo si riferisce alle seguenti edizioni: Standard

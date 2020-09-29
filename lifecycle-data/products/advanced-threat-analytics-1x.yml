@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Advanced Threat Analytics 1. X
-  description: Advanced Threat Analytics 1. X segue il criterio del ciclo di vita fisso.
+  title: Analisi avanzata delle minacce 1.X
+  description: Advanced Threat Analytics 1.X segue i criteri fissi relativi al ciclo di vita.
   ms.date: 09/10/2020
   keywords: 
   ms.openlocfilehash: 63d72a1510958edf2f7800c4a102fb587cbb8750
   ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: it-IT
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1002709"
-name: Advanced Threat Analytics 1. X
+name: Analisi avanzata delle minacce 1.X
 summary: >+
-  Advanced Threat Analytics 1. X segue il criterio del ciclo di vita [fisso](/lifecycle/policies/fixed) .
+  Advanced Threat Analytics 1.X segue i [criteri fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2015
   endDate: 01/13/2026
-content: "\n## <a name=\"links\"></a>Collegamenti \n* [Linee guida per la manutenzione di Advanced Threat Analytics](/advanced-threat-analytics/understand-explore/ata-versions)\n\n> [!NOTE]\n> Gli aggiornamenti sono cumulativi, con ogni aggiornamento basato su tutti gli aggiornamenti che lo hanno preceduto. Un dispositivo deve installare l'aggiornamento più recente per rimanere supportato."
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Linee guida per il servizio di Advanced Threat Analytics](/advanced-threat-analytics/understand-explore/ata-versions)\n\n> [!NOTE]\n> Gli aggiornamenti sono cumulativi, ovvero ogni aggiornamento si basa su tutti gli aggiornamenti precedenti. È necessario installare gli ultimi aggiornamenti sul dispositivo per continuare a ricevere supporto."
