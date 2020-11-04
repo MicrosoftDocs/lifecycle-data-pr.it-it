@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Cloud per il Settore sanitario
+  description: Microsoft Cloud per il Settore sanitario segue i criteri moderni relativi al ciclo di vita.
+  ms.date: 10/28/2020
+  keywords: 
+  ms.openlocfilehash: 6c983fc065824794748a01a129446703df3ec1d5
+  ms.sourcegitcommit: 2056a8a3f9a36793142bc03850e39d5751d9dad3
+  ms.translationtype: HT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 10/29/2020
+  ms.locfileid: "1193466"
+name: Microsoft Cloud per il Settore sanitario
+summary: >+
+  Microsoft Cloud per il Settore sanitario segue i criteri [moderni](/lifecycle/policies/modern) relativi al ciclo di vita.
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 10/28/2020
+releases:
+- version: Original Release
+  startDate: 10/28/2020
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Ulteriori informazioni su Microsoft Cloud per il Settore sanitario](https://www.microsoft.com/industry/health/microsoft-cloud-for-healthcare)\n* [Introduzione a Microsoft Cloud per il Settore sanitario](/dynamics365/industry/healthcare/overview)"
