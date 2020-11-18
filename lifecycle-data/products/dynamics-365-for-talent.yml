@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics 365 for Talent
-  description: Dynamics 365 for Talent segue i Criteri moderni relativi al ciclo di vita.
+  description: Dynamics 365 for Talent segue i criteri moderni relativi al ciclo di vita.
   ms.date: 09/01/2020
   keywords: Onboard
   ms.openlocfilehash: de03f162a1781f88e66a030774e5c31771e4f0f6
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "930718"
 name: Dynamics 365 for Talent
 summary: >+
-  Dynamics 365 for Talent segue i Criteri [moderni](/lifecycle/policies/modern) relativi al ciclo di vita.
+  Dynamics 365 for Talent segue i criteri [moderni](/lifecycle/policies/modern) relativi al ciclo di vita.
 
 
   Questo articolo si riferisce alle seguenti edizioni: Onboard
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/31/2017
   endDate: 02/02/2022
-content: "\n## <a name=\"links\"></a>Collegamenti \n* [Requisiti di sistema](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Indicazioni sulla migrazione](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Le app Attract e Onboard saranno ritirate il 2 febbraio 2022.  Core HR è stato lanciato nuovamente come Dynamics 365 Human Resources il 1 febbraio 2020, vedere le linee guida per la migrazione per ulteriori informazioni.\n\n## <a name=\"editions\"></a>Edizioni \n* Onboard"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Requisiti di sistema](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Indicazioni sulla migrazione](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Le app Attract e Onboard saranno ritirate il 2 febbraio 2022.  Core HR è stato lanciato nuovamente come Dynamics 365 Human Resources in data 1 febbraio 2020, vedere le linee guida per la migrazione per ulteriori informazioni.\n\n## <a name=\"editions\"></a>Edizioni \n* Onboard"

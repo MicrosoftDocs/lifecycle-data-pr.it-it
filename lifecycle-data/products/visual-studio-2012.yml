@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2012
-  description: Visual Studio 2012 segue i Criteri fissi relativi al ciclo di vita.
+  description: Visual Studio 2012 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 09/01/2020
   keywords: Agents,Community 2013,Express for Web,Express for Windows 8,Express for Windows Desktop,IntelliTrace Collector,Microsoft Azure Tools,Premium,Professional,Remote Tools,Shell (Integrated),Shell (Isolated),SQL Server Data Tools,Team Explorer,Test Professional 2013,Ultimate,Visual C++ Redistributable,Web Tools Extensions
   ms.openlocfilehash: 31ae5780a4e6f55abc3d232aafdd43fa70f32be2
@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "937489"
 name: Visual Studio 2012
 summary: >+
-  Visual Studio 2012 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
+  Visual Studio 2012 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
-  Questo articolo si riferisce alle seguenti edizioni: Agenti, Community 2013, Express per Web, Express per Windows 8, Express per Windows Desktop, IntelliTrace Collector, Strumenti di Microsoft Azure, Premium, Professional, Strumenti remoti, Shell (integrato), Shell (isolato), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Estensioni degli strumenti Web
+  Questo articolo si riferisce alle seguenti edizioni: Agents, Community 2013, Express per Web, Express per Windows 8, Express per Windows Desktop, Agente di raccolta IntelliTrace, Strumenti di Microsoft Azure, Premium, Professional, Remote Tools, Shell (Integrated), Shell (Isolated), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Estensioni Web Tools
 
 products:
 - vs
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Collegamenti \n* [Ciclo di vita del prodotto e assistenza di Visual Studio](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Agents\n* Community 2013\n* Express per il Web\n* Express per Windows 8\n* Express per Windows Desktop\n* IntelliTrace Collector\n* Strumenti di Microsoft Azure\n* Premium\n* Professional\n* Remote Tools\n* Shell (Integrated)\n* Shell (Isolated)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Estensioni degli strumenti Web"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Ciclo di vita del prodotto e assistenza di Visual Studio](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Agents\n* Community 2013\n* Express per il Web\n* Express per Windows 8\n* Express per Windows Desktop\n* Strumenti di raccolta IntelliTrace\n* Strumenti di Microsoft Azure\n* Premium\n* Professional\n* Remote Tools\n* Shell (Integrated)\n* Shell (Isolated)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Estensioni Web Tools"

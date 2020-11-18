@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2010
-  description: Visual Studio 2010 segue i Criteri fissi relativi al ciclo di vita.
+  description: Visual Studio 2010 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 09/01/2020
   keywords: Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Tools for Office System 4.0 Runtime,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
   ms.openlocfilehash: b48b0cf13c8467530d6c24c5eb54371008e4dbdd
@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "937526"
 name: Visual Studio 2010
 summary: >+
-  Visual Studio 2010 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
+  Visual Studio 2010 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
-  Questo articolo si riferisce alle seguenti edizioni: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Strumenti per le prestazioni, Premium, Professional, Professional con MSDN, PSM, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Tools per Office System 4.0 Runtime, Ultimate, Ultimate con MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization and Modeling SDK
+  Questo articolo si riferisce alle seguenti edizioni: Agents, tutte, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Strumenti per le prestazioni, Premium, Professional, Professional con MSDN, PSM, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Tools per Office System 4.0 Runtime, Ultimate, Ultimate con MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization and Modeling SDK
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Collegamenti \n* [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Agents\n* Tutti\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Performance Tools\n* Premium\n* Professional\n* Professional w/MSDN \n* PSM\n* Remote Debugger\n* SDK\n* Shell (Integrated)\n* Shell (Isolated)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Tools per Office System 4.0 Runtime\n* Ultimate\n* Ultimate con MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Criteri relativi ai Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Agents\n* Tutte\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Strumenti per le prestazioni\n* Premium\n* Professional\n* Professional con MSDN \n* PSM\n* Remote Debugger\n* SDK\n* Shell (Integrated)\n* Shell (Isolated)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Tools per Office System 4.0 Runtime\n* Ultimate\n* Ultimate con MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization and Modeling SDK"
