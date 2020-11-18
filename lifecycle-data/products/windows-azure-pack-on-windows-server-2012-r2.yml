@@ -31,4 +31,4 @@ releases:
 - version: V2 Web Sites
   startDate: 01/14/2014
   endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>Collegamenti \n* [Date del ciclo di vita del supporto per Siti Web V2 di Windows Azure Pack](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)\n* [Informazione sul prodotto Windows Azure Pack per Windows Server](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n\n## <a name=\"editions\"></a>Edizioni \n* su Windows Server 2012 R2"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Date del ciclo di vita del supporto per Siti Web V2 di Windows Azure Pack](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)\n* [Informazione sul prodotto Windows Azure Pack per Windows Server](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n\n## <a name=\"editions\"></a>Edizioni \n* Su Windows Server 2012 R2"
