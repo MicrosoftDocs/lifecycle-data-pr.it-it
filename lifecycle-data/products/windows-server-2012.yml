@@ -15,7 +15,7 @@ summary: >+
   Windows Server 2012 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
-  Questo articolo si riferisce alle seguenti edizioni: Datacenter, Essentials, External Connector, for Embedded Systems, Foundation, Standard
+  Questo articolo si riferisce alle seguenti edizioni: Datacenter, Essentials, External Connector, per sistemi integrati, Foundation, Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](/windows-server/upgrade/upgrade-overview)\n* [Informazioni sul prodotto](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Il supporto Mainstream ed Esteso per questo prodotto è stato esteso per fornire ai clienti la sequenza temporale della transizione del ciclo di vita standard. Windows Server Essentials è stato rilasciato il 2 gennaio 2013.\n\n## <a name=\"editions\"></a>Edizioni \n* Datacenter\n* Essentials\n* External Connector\n* for Embedded Systems\n* Foundation\n* Standard"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](/windows-server/upgrade/upgrade-overview)\n* [Informazioni sul prodotto](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Il supporto Mainstream ed Esteso per questo prodotto è stato esteso per fornire ai clienti la sequenza temporale della transizione del ciclo di vita standard. Windows Server Essentials è stato rilasciato il 2 gennaio 2013.\n\n## <a name=\"editions\"></a>Edizioni \n* Datacenter\n* Essentials\n* External Connector\n* Per sistemi integrati\n* Foundation\n* Standard"

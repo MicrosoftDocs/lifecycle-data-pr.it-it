@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 4.5 per desktop Windows
-  description: Microsoft Application Virtualization Hosting 4.5 per Windows Desktop segue i Criteri fissi relativi al ciclo di vita.
+  title: Microsoft Application Virtualization Hosting 4.5 per Windows Desktop
+  description: Microsoft Application Virtualization Hosting 4.5 per Windows Desktop segue i criteri fissi relativi al ciclo di vita.
   ms.date: 09/01/2020
   keywords: for Windows Desktops
   ms.openlocfilehash: 50fe924f5e1b5968a41beea54c1cc30d5df28434
@@ -10,12 +10,12 @@ metadata:
   ms.contentlocale: it-IT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935491"
-name: Microsoft Application Virtualization Hosting 4.5 per desktop Windows
+name: Microsoft Application Virtualization Hosting 4.5 per Windows Desktop
 summary: >
-  Microsoft Application Virtualization Hosting 4.5 per Windows Desktop segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
+  Microsoft Application Virtualization Hosting 4.5 per Windows Desktop segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
-  Questo vale per le seguenti edizioni: per Windows Desktop
+  Questo articolo si riferisce alle seguenti edizioni: per Windows Desktop
 
 
   > [!IMPORTANT]
@@ -38,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Collegamenti \n* [Informazioni sul prodotto e sulla migrazione](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edizioni \n* per Windows Desktop"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Informazioni sul prodotto e sulla migrazione](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Criteri relativi ai Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Per Windows Desktop"
