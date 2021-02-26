@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure Defender per IoT
+  description: Azure Defender per IoT rispetta i criteri moderni relativi al ciclo di vita.
+  ms.date: 01/21/2021
+  keywords: 
+  ms.openlocfilehash: 28bc5df644a746cb65fd14a284a53271673b43b4
+  ms.sourcegitcommit: ffa04eb30e10bcb221fe81620a904f87ea6c2df2
+  ms.translationtype: HT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 02/17/2021
+  ms.locfileid: "1449562"
+name: Azure Defender per IoT
+summary: >+
+  Azure Defender per IoT rispetta i criteri [moderni](/lifecycle/policies/modern) relativi al ciclo di vita.
+
+
+products:
+- azure
+policyType: modern-on-prem
+supportDates:
+  start: 01/04/2021
+releases:
+- version: Original Release
+  startDate: 01/04/2021
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Linee guida per la manutenzione](/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history#servicing-information-and-timelines)"

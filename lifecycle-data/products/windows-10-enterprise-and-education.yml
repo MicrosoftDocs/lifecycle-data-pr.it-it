@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 Enterprise and Education
   description: Windows 10 Enterprise and Education segue i Criteri moderni relativi al ciclo di vita.
-  ms.date: 10/09/2020
+  ms.date: 02/12/2021
   keywords: 
-  ms.openlocfilehash: aafaec4e3b02f433224ea51446b8c18f4bd0c031
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.openlocfilehash: 84edf77fb54cb13cb21b8a8ef6643267a3872af2
+  ms.sourcegitcommit: b85a6ac35e0af0e17a9ae767927273508a4f31f6
   ms.translationtype: HT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162523"
+  ms.lasthandoff: 02/14/2021
+  ms.locfileid: "1449224"
 name: Windows 10 Enterprise and Education
 summary: >
   Windows 10 Enterprise and Education segue i Criteri [moderni](/lifecycle/policies/modern) relativi al ciclo di vita.
@@ -20,7 +20,9 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Microsoft continuerà a supportare almeno un Canale semestrale di Windows 10 fino al 14 ottobre 2025.
+  > Microsoft continuerà a supportare almeno una versione del Canale semestrale di Windows 10 fino al 14 ottobre 2025.
+
+  La tabella seguente mostra le versioni rilasciate fino ad oggi.
 products:
 - windows
 policyType: modern-on-prem
@@ -61,4 +63,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Collegamenti \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Informazioni sul prodotto](/windows/windows-10/)\n* [Domande frequenti sul ciclo di vita - Prodotti Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Salvo posticipi, i seguenti aggiornamenti delle funzionalità del Canale semestrale di Windows 10 possono essere installati prima della fine del supporto Mainstream.\n\n## <a name=\"editions\"></a>Edizioni \n* Education\n* Enterprise"
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 Home and Pro](/lifecycle/products/windows-10-home-and-pro)\n* [Informazioni sul prodotto](/windows/windows-10/)\n* [Domande frequenti sul ciclo di vita - Prodotti Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Salvo posticipi, i seguenti aggiornamenti delle funzionalità del Canale semestrale di Windows 10 possono essere installati prima della fine del supporto Mainstream.\n\n## <a name=\"editions\"></a>Edizioni \n* Education\n* Enterprise"
