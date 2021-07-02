@@ -2,28 +2,31 @@
 metadata:
   title: Windows 10 IoT Core
   description: Windows 10 IoT Core segue i Criteri moderni relativi al ciclo di vita.
-  ms.date: 01/07/2021
+  ms.date: 06/23/2021
   keywords: 
-  ms.openlocfilehash: 0eb6508d3bae724e55598450d6aeb156ad727048
-  ms.sourcegitcommit: 699a750c1174c44e9aca20f79e837d8cd401de71
+  ms.openlocfilehash: ca9f69e7cbaf902414f8eca6c763d2eb07646d96
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 01/07/2021
-  ms.locfileid: "1369496"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2028881"
 name: Windows 10 IoT Core
-summary: >
+summary: >+
   Windows 10 IoT Core segue i Criteri [moderni](/lifecycle/policies/modern) relativi al ciclo di vita.
+
+
 
 
 
   > [!IMPORTANT]
 
   > Questo prodotto è stato ritirato il 10 novembre 2020. Per continuare a ricevere supporto, eseguire la migrazione a [IoT Core Services](https://docs.microsoft.com/windows-hardware/manufacture/iot/iotcoreservicesoverview?tabs=azure-portal).
+
 products:
 - windows
 policyType: modern-on-prem
 supportDates:
-  start: 08/02/2016
+  start: 11/10/2015
   end: 11/10/2020
 releases:
 - version: Version 1809
@@ -41,4 +44,7 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Collegamenti \n* [Domande frequenti sul ciclo di vita - Prodotti Windows](/lifecycle/faq/windows)\n* [Scheda informativa sul ciclo di vita di Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)"
+- version: Version 1511
+  startDate: 11/10/2015
+  endDate: 10/10/2017
+content: "\n\n## <a name=\"links\"></a>Collegamenti \n* [Domande frequenti sul ciclo di vita - Prodotti Windows](/lifecycle/faq/windows)\n* [Scheda informativa sul ciclo di vita di Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)"
