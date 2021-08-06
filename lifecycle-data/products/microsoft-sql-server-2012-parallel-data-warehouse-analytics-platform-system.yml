@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SQL Server 2012 Parallel Data Warehouse (Piattaforma di strumenti analitici)
+  description: Microsoft SQL Server 2012 Parallel Data Warehouse (Piattaforma di strumenti analitici) segue i Criteri fissi relativi al ciclo di vita.
+  ms.date: 07/12/2021
+  keywords: 
+  ms.openlocfilehash: b8b7ba18a9194156b247cc21091283d7b6e3af28
+  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
+  ms.translationtype: HT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "2172211"
+name: Microsoft SQL Server 2012 Parallel Data Warehouse (Piattaforma di strumenti analitici)
+summary: "Microsoft SQL Server 2012 Parallel Data Warehouse (Piattaforma di strumenti analitici) segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita. \n\n\n\n\n> [!IMPORTANT]\n> La fine del supporto per la piattaforma di strumenti analitici Microsoft è stata estesa dall'8 ottobre 2024 al 31 marzo 2026.\n\n"
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 07/12/2013
+  end: 10/08/2019
+  extendedEnd: 03/31/2026
+releases:
+- version: Original Release
+  startDate: 07/12/2013
+  endDate: 10/08/2024
+content: "\n\n## <a name=\"links\"></a>Collegamenti \n* [Informazioni sul prodotto](https://www.microsoft.com/sql-server/analytics-platform-system)\n\n\n> [!NOTE]\n> SQL Server 2012 Parallel Data Warehouse (PDW) è stato rinominato APS (Piattaforma di strumenti analitici)"
