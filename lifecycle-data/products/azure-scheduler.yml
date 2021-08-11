@@ -3,12 +3,12 @@ metadata:
   title: Utilità di pianificazione di Azure
   description: Utilità di pianificazione di Azure segue i criteri moderni relativi al ciclo di vita.
   ms.date: 07/28/2020
-  ms.openlocfilehash: c5e6273a70a409fc5947fb69ea6103e771128747
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 8784da0b0e19819cc23b5a7b5580a91a544fe5720609f56705b18f5024b5810a
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "856724"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2492967"
 name: Utilità di pianificazione di Azure
 summary: >+
   Utilità di pianificazione di Azure segue i criteri [moderni](/lifecycle/policies/modern) relativi al ciclo di vita.
