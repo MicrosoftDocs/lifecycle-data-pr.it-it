@@ -1,41 +1,40 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 4.5 per Windows Desktop
-  description: Microsoft Application Virtualization Hosting 4.5 per Windows Desktop segue i criteri fissi relativi al ciclo di vita.
+  title: Microsoft Application Virtualization Hosting 4.5 per desktop Windows
+  description: Microsoft Application Virtualization Hosting 4.5 per Windows Desktop segue i Criteri fissi relativi al ciclo di vita.
   ms.date: 09/01/2020
   keywords: for Windows Desktops
-  ms.openlocfilehash: 50fe924f5e1b5968a41beea54c1cc30d5df28434
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: it-IT
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935491"
-name: Microsoft Application Virtualization Hosting 4.5 per Windows Desktop
-summary: >
-  Microsoft Application Virtualization Hosting 4.5 per Windows Desktop segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
+name: Microsoft Application Virtualization Hosting 4.5 per desktop Windows
+summary: |
+  Microsoft Application Virtualization Hosting 4.5 per Windows Desktop segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
-
-  Questo articolo si riferisce alle seguenti edizioni: per Windows Desktop
-
+  Questo vale per le seguenti edizioni: per Windows Desktop
 
   > [!IMPORTANT]
-
   > Il supporto per questo prodotto è terminato. Vedere le informazioni sulla migrazione riportate di seguito.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/23/2008
   end: 01/14/2014
   extendedEnd: 01/08/2019
 releases:
-- version: Service Pack 2
-  startDate: 08/15/2010
-  endDate: 01/08/2019
-- version: Service Pack 1
-  startDate: 12/13/2009
-  endDate: 10/11/2011
-- version: Original Release
-  startDate: 11/23/2008
-  endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Collegamenti \n* [Informazioni sul prodotto e sulla migrazione](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Criteri relativi ai Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Per Windows Desktop"
+  - version: Service Pack 2
+    startDate: 08/15/2010
+    endDate: 01/08/2019
+  - version: Service Pack 1
+    startDate: 12/13/2009
+    endDate: 10/11/2011
+  - version: Original Release
+    startDate: 11/23/2008
+    endDate: 01/11/2011
+content: |
+
+  ## <a name="links"></a>Collegamenti 
+  * [Informazioni sul prodotto e sulla migrazione](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Edizioni 
+  * per Windows Desktop

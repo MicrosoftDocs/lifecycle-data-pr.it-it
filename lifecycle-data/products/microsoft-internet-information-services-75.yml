@@ -3,23 +3,22 @@ metadata:
   title: Microsoft Internet Information Services 7.5
   description: Microsoft Internet Information Services 7.5 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 22b88b7209f8aea2ae47d7486d5c946008768d76
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: it-IT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "825117"
 name: Microsoft Internet Information Services 7.5
-summary: >+
+summary: |+
   Microsoft Internet Information Services 7.5 segue i criteri [fissi](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) relativi al ciclo di vita.
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 10/22/2009
 releases:
-- version: Original Release
-  startDate: 10/22/2009
-content: "> [!TIP]\n> Questa versione è nota come un componente che segue il ciclo di vita relativo al supporto del prodotto principale, Windows 7 e Windows Server 2008 R2\n\n## <a name=\"links\"></a>Collegamenti \n* [Windows Server 2008 R2](/lifecycle/products/windows-server-2008-r2)"
+  - version: Original Release
+    startDate: 10/22/2009
+content: |+
+  > [!TIP]
+  > Questa versione è nota come un componente che segue il ciclo di vita relativo al supporto del prodotto principale, Windows 7 e Windows Server 2008 R2
+
+  ## <a name="links"></a>Collegamenti 
+  * [Windows Server 2008 R2](/lifecycle/products/windows-server-2008-r2)
