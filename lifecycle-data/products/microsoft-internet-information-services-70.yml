@@ -3,23 +3,22 @@ metadata:
   title: Microsoft Internet Information Services 7.0
   description: Microsoft Internet Information Services 7.0 segue i criteri relativi al ciclo di vita dei componenti.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 2db2bbc83343f99aea9be4749fa1fcd0aeb12220
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: it-IT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "825119"
 name: Microsoft Internet Information Services 7.0
-summary: >+
+summary: |+
   Microsoft Internet Information Services 7.0 segue i criteri relativi al ciclo di vita dei [componenti](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 01/25/2007
 releases:
-- version: Original Release
-  startDate: 01/25/2007
-content: "> [!TIP]\n> Questo rilascio è noto come un componente che segue il ciclo di vita del supporto del prodotto principale, Windows Server 2008\n\n## <a name=\"links\"></a>Collegamenti \n* [Windows Server 2008](/lifecycle/products/windows-server-2008)"
+  - version: Original Release
+    startDate: 01/25/2007
+content: |+
+  > [!TIP]
+  > Questo rilascio è noto come un componente che segue il ciclo di vita del supporto del prodotto principale, Windows Server 2008
+
+  ## <a name="links"></a>Collegamenti 
+  * [Windows Server 2008](/lifecycle/products/windows-server-2008)

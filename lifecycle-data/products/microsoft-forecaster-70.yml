@@ -3,41 +3,42 @@ metadata:
   title: Microsoft Forecaster 7.0
   description: Microsoft Forecaster 7.0 segue i Criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
-  ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: it-IT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "824755"
 name: Microsoft Forecaster 7.0
-summary: >+
+summary: |+
   Microsoft Forecaster 7.0 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:
-- dynamics
+  - dynamics
 policyType: fixed
 supportDates:
   start: 05/30/2007
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Service Pack 5
-  startDate: 05/19/2014
-  endDate: 07/09/2019
-- version: Service Pack 4
-  startDate: 06/27/2011
-  endDate: 07/14/2015
-- version: Service Pack 3
-  startDate: 03/31/2009
-  endDate: 07/10/2012
-- version: Service Pack 2
-  startDate: 06/13/2008
-  endDate: 04/13/2010
-- version: Service Pack 1
-  startDate: 11/01/2007
-  endDate: 07/14/2009
-- version: Original Release
-  startDate: 05/30/2007
-  endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Il supporto per Forecaster termina alla data indicata, a meno che non sia stato distribuito come componente di un prodotto Dynamics. Quando distribuito insieme a un prodotto Dynamics, le date del ciclo di vita di Dynamics sostituiscono la data di Forecaster."
+  - version: Service Pack 5
+    startDate: 05/19/2014
+    endDate: 07/09/2019
+  - version: Service Pack 4
+    startDate: 06/27/2011
+    endDate: 07/14/2015
+  - version: Service Pack 3
+    startDate: 03/31/2009
+    endDate: 07/10/2012
+  - version: Service Pack 2
+    startDate: 06/13/2008
+    endDate: 04/13/2010
+  - version: Service Pack 1
+    startDate: 11/01/2007
+    endDate: 07/14/2009
+  - version: Original Release
+    startDate: 05/30/2007
+    endDate: 01/13/2009
+content: |+
+
+  ## <a name="links"></a>Collegamenti 
+  * [Indicazioni sulla migrazione](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)
+  * [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Il supporto per Forecaster termina alla data indicata, a meno che non sia stato distribuito come componente di un prodotto Dynamics. Quando distribuito insieme a un prodotto Dynamics, le date del ciclo di vita di Dynamics sostituiscono la data di Forecaster.
