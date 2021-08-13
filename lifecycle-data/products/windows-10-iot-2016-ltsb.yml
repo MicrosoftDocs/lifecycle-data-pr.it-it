@@ -4,28 +4,30 @@ metadata:
   description: Windows 10 IoT 2016 LTSB segue i Criteri fissi relativi al ciclo di vita.
   ms.date: 09/01/2020
   keywords: Enterprise
-  ms.openlocfilehash: fc19a4917f270b8c1c774c8e62b504dec47ef5ce
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: it-IT
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938266"
 name: Windows 10 IoT 2016 LTSB
-summary: >+
+summary: |+
   Windows 10 IoT 2016 LTSB segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
-
 
   Questo articolo si riferisce alle seguenti edizioni: Enterprise
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 08/02/2016
   end: 10/12/2021
   extendedEnd: 10/13/2026
 releases:
-- version: Original Release
-  startDate: 08/02/2016
-  endDate: 10/13/2026
-content: "\n## <a name=\"links\"></a>Collegamenti \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Domande frequenti su Windows 10 LTS](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Aggiornamento di Windows 10 di ottobre 2018 (versione 1809) nuovamente rilasciato](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Enterprise"
+  - version: Original Release
+    startDate: 08/02/2016
+    endDate: 10/13/2026
+content: |
+
+  ## <a name="links"></a>Collegamenti 
+  * [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)
+  * [Domande frequenti su Windows 10 LTS](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)
+  * [Aggiornamento di Windows 10 di ottobre 2018 (versione 1809) nuovamente rilasciato](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)
+
+
+  ## <a name="editions"></a>Edizioni 
+  * Enterprise

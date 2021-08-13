@@ -3,29 +3,32 @@ metadata:
   title: Windows Storage Server 2012
   description: Windows Storage Server 2012 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 09/10/2020
-  keywords: Standard,Workgroup
-  ms.openlocfilehash: 9626cd83f310a08921530211ad3dab10456c0aee
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: it-IT
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002245"
+  keywords: 'Standard,Workgroup'
 name: Windows Storage Server 2012
-summary: >+
+summary: |+
   Windows Storage Server 2012 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
-
 
   Questo vale per le seguenti edizioni: Standard e Workgroup
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](/windows-server/upgrade/upgrade-2012-to-2016)\n\n> [!NOTE]\n> Il supporto Mainstream ed Esteso per questo prodotto è stato esteso per fornire ai clienti la sequenza temporale della transizione del ciclo di vita standard.\n\n## <a name=\"editions\"></a>Edizioni \n* Standard\n* Workgroup"
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 10/10/2023
+content: |
+
+  ## <a name="links"></a>Collegamenti 
+  * [Indicazioni sulla migrazione](/windows-server/upgrade/upgrade-2012-to-2016)
+
+  > [!NOTE]
+  > Il supporto Mainstream ed Esteso per questo prodotto è stato esteso per fornire ai clienti la sequenza temporale della transizione del ciclo di vita standard.
+
+  ## <a name="editions"></a>Edizioni 
+  * Standard
+  * Workgroup

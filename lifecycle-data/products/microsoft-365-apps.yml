@@ -3,26 +3,32 @@ metadata:
   title: Microsoft 365 Apps
   description: App di Microsoft 365 seguono i criteri moderni relativi al ciclo di vita.
   ms.date: 04/07/2021
-  keywords: Office 365 Business,Office 365 ProPlus,for business,for enterprise
-  ms.openlocfilehash: 2b9518ad9cd88732e614b70b4feb24fec6ceaff3
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
-  ms.translationtype: HT
-  ms.contentlocale: it-IT
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2030156"
+  keywords: 'Office 365 Business,Office 365 ProPlus,for business,for enterprise'
 name: Microsoft 365 Apps
-summary: >+
+summary: |+
   Microsoft 365 Apps segue i criteri [moderni](/lifecycle/policies/modern) relativi al ciclo di vita.
-
 
   Questo articolo si riferisce alle seguenti edizioni: for business, for enterprise
 
 products:
-- office
+  - office
 policyType: modern-online
 supportDates:
   start: 09/22/2015
 releases:
-- version: Original Release
-  startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Collegamenti \n* [Versioni supportate](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)\n* [Requisiti di sistema](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Matrice di supporto della configurazione di Office](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)\n* [Guida alla distribuzione per Microsoft 365 Apps](/DeployOffice/deployment-guide-microsoft-365-apps)\n\n> [!NOTE]\n> Microsoft 365 Apps for enterprise era chiamato in precedenza Office365 ProPlus. Microsoft 365 Apps for business era chiamato in precedenza Office 365 Business.\n\n## <a name=\"editions\"></a>Edizioni \n* for business\n* for enterprise"
+  - version: Original Release
+    startDate: 09/22/2015
+content: |
+
+  ## <a name="links"></a>Collegamenti 
+  * [Versioni supportate](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)
+  * [Requisiti di sistema](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)
+  * [Matrice di supporto della configurazione di Office](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)
+  * [Guida alla distribuzione per Microsoft 365 Apps](/DeployOffice/deployment-guide-microsoft-365-apps)
+
+  > [!NOTE]
+  > Microsoft 365 Apps for enterprise era chiamato in precedenza Office365 ProPlus. Microsoft 365 Apps for business era chiamato in precedenza Office 365 Business.
+
+  ## <a name="editions"></a>Edizioni 
+  * for business
+  * for enterprise

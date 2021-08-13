@@ -3,23 +3,21 @@ metadata:
   title: Microsoft Teams
   description: Microsoft Teams segue i criteri moderni relativi al ciclo di vita.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9a95c11e5ed20489a0e571cfbab654a977a4dd1c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: it-IT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "857160"
 name: Microsoft Teams
-summary: >+
+summary: |+
   Microsoft Teams segue i criteri [moderni](/lifecycle/policies/modern) relativi al ciclo di vita.
 
 
 products:
-- office
+  - office
 policyType: modern-online
 supportDates:
   start: 11/01/2016
 releases:
-- version: Original Release
-  startDate: 11/01/2016
-content: "\n## <a name=\"links\"></a>Collegamenti \n* [Requisiti di sistema](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Informazioni sulla manutenzione](/microsoftteams/teams-client-update)"
+  - version: Original Release
+    startDate: 11/01/2016
+content: |+
+
+  ## <a name="links"></a>Collegamenti 
+  * [Requisiti di sistema](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)
+  * [Informazioni sulla manutenzione](/microsoftteams/teams-client-update)
