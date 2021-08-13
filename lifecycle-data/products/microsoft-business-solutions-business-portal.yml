@@ -3,31 +3,29 @@ metadata:
   title: Portale aziendale di Microsoft Business Solutions
   description: Portale aziendale di Microsoft Business Solutions segue i criteri fissi relativi al ciclo di vita.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 2b4116c3d6461616b1e36ab86d5606900be3ec6c
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: HT
-  ms.contentlocale: it-IT
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "904236"
 name: Portale aziendale di Microsoft Business Solutions
-summary: >+
+summary: |+
   Portale aziendale di Microsoft Business Solutions segue i [criteri fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:
-- dynamics
+  - dynamics
 policyType: fixed-mainstream-only
 supportDates:
   start: 07/18/2003
   end: 01/08/2008
 releases:
-- version: Business Solutions Business Portal 2.5
-  startDate: 08/01/2004
-  endDate: 01/08/2008
-- version: Business Solutions Business Portal 2.0
-  startDate: 01/01/2004
-  endDate: 04/10/2007
-- version: Business Solutions Business Portal 1.2
-  startDate: 07/18/2003
-  endDate: 12/31/2004
-content: "\n\n> [!NOTE]\n> Portale aziendale di Microsoft Business Solutions 2.5 è supportato solo se utilizzato con Great Plains 8.0 o Solomon 6.0."
+  - version: Business Solutions Business Portal 2.5
+    startDate: 08/01/2004
+    endDate: 01/08/2008
+  - version: Business Solutions Business Portal 2.0
+    startDate: 01/01/2004
+    endDate: 04/10/2007
+  - version: Business Solutions Business Portal 1.2
+    startDate: 07/18/2003
+    endDate: 12/31/2004
+content: |+
+
+
+  > [!NOTE]
+  > Portale aziendale di Microsoft Business Solutions 2.5 è supportato solo se utilizzato con Great Plains 8.0 o Solomon 6.0.
