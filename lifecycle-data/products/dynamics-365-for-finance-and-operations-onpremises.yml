@@ -3,26 +3,28 @@ metadata:
   title: Dynamics 365 per Finance and Operations (locale)
   description: Dynamics 365 for Finance and Operations (locale) segue i criteri moderni relativi al ciclo di vita.
   ms.date: 09/29/2020
-  keywords: 
-  ms.openlocfilehash: 9b879d2f0ced744707a538ea80b4eb7afc438518
-  ms.sourcegitcommit: 7ed59f943dacfc14fbd5d5593741177aa2b6431b
-  ms.translationtype: HT
-  ms.contentlocale: it-IT
-  ms.lasthandoff: 09/29/2020
-  ms.locfileid: "1048311"
+  keywords: null
 name: Dynamics 365 per Finance and Operations (locale)
-summary: >+
+summary: |+
   Dynamics 365 for Finance and Operations (locale) segue i criteri [moderni](/lifecycle/policies/modern) relativi al ciclo di vita.
-
 
   Questo articolo si riferisce alle seguenti edizioni: Enterprise
 
 products:
-- dynamics
+  - dynamics
 policyType: modern-online
 supportDates:
   start: 06/15/2017
 releases:
-- version: Original Release
-  startDate: 06/15/2017
-content: "\n## <a name=\"links\"></a>Collegamenti \n* [Informazioni sulla manutenzione](/dynamics365/unified-operations/dev-itpro/migration-upgrade/on-prem-version-update-policy)\n* [Funzioni rimosse o deprecate](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)\n* [Requisiti di sistema](https://ax.help.dynamics.com/wiki/browser-requirements/)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Enterprise"
+  - version: Original Release
+    startDate: 06/15/2017
+content: |
+
+  ## <a name="links"></a>Collegamenti 
+  * [Informazioni sulla manutenzione](/dynamics365/unified-operations/dev-itpro/migration-upgrade/on-prem-version-update-policy)
+  * [Funzioni rimosse o deprecate](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)
+  * [Requisiti di sistema](https://ax.help.dynamics.com/wiki/browser-requirements/)
+
+
+  ## <a name="editions"></a>Edizioni 
+  * Enterprise

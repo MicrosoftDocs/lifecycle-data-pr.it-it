@@ -4,22 +4,29 @@ metadata:
   description: Office Live Meeting segue i criteri moderni relativi al ciclo di vita.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: it-IT
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "928905"
 name: Office Live Meeting
-summary: "Office Live Meeting segue i criteri [moderni](/lifecycle/policies/modern) relativi al ciclo di vita.\n\nQuesto articolo si riferisce alle seguenti edizioni: Standard\n\n> [!IMPORTANT]\n> Il supporto per questo servizio è terminato. Vedere le linee guida per la migrazione riportate di seguito. \n"
+summary: |
+  Office Live Meeting segue i criteri [moderni](/lifecycle/policies/modern) relativi al ciclo di vita.
+
+  Questo articolo si riferisce alle seguenti edizioni: Standard
+
+  > [!IMPORTANT]
+  > Il supporto per questo servizio è terminato. Vedere le linee guida per la migrazione riportate di seguito. 
 products:
-- office
+  - office
 policyType: modern-online
 supportDates:
   start: 04/10/2009
   end: 12/31/2017
 releases:
-- version: Original Release
-  startDate: 04/10/2009
-  endDate: 12/31/2017
-content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Standard"
+  - version: Original Release
+    startDate: 04/10/2009
+    endDate: 12/31/2017
+content: |
+
+  ## <a name="links"></a>Collegamenti 
+  * [Indicazioni sulla migrazione](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)
+
+
+  ## <a name="editions"></a>Edizioni 
+  * Standard

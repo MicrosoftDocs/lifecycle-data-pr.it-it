@@ -3,29 +3,30 @@ metadata:
   title: Microsoft Lync 2010
   description: Microsoft Lync 2010 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 10/20/2020
-  keywords: 
-  ms.openlocfilehash: a9bb16d3231175342172806518fbae8913450493
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: it-IT
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162819"
+  keywords: null
 name: Microsoft Lync 2010
-summary: >+
+summary: |+
   Microsoft Lync 2010 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
-
 
   Questo si riferisce alle seguenti edizioni: Attendant, Attendee, Group Chat, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/25/2011
   end: 04/12/2016
   extendedEnd: 04/13/2021
 releases:
-- version: Original Release
-  startDate: 01/25/2011
-  endDate: 04/13/2021
-content: "\n\n\n## <a name=\"editions\"></a>Edizioni \n* Attendant\n* Attendee\n* Group Chat\n* Standard"
+  - version: Original Release
+    startDate: 01/25/2011
+    endDate: 04/13/2021
+content: |
+
+
+
+  ## <a name="editions"></a>Edizioni 
+  * Attendant
+  * Attendee
+  * Group Chat
+  * Standard

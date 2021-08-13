@@ -3,26 +3,20 @@ metadata:
   title: Set di strumenti di diagnostica e ripristino Microsoft 8.1
   description: Il set di strumenti di diagnostica e ripristino Microsoft 8.1 segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 7b9a4a5bc7ccc7e9849b0e5acaaf305a57485025
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: it-IT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "857048"
 name: Set di strumenti di diagnostica e ripristino Microsoft 8.1
-summary: >+
+summary: |+
   Il set di strumenti di diagnostica e ripristino Microsoft 8.1 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 02/06/2014
   end: 04/09/2019
   extendedEnd: 04/09/2024
 releases:
-- version: Original Release
-  startDate: 02/06/2014
-  endDate: 04/09/2024
-content: ''
+  - version: Original Release
+    startDate: 02/06/2014
+    endDate: 04/09/2024
+content: |+
