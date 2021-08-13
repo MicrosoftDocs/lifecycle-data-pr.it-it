@@ -3,28 +3,30 @@ metadata:
   title: Opzione di installazione di Nano Server per Windows Server 2016
   description: L'opzione di installazione di Nano Server per Windows Server 2016 segue i Criteri moderni relativi al ciclo di vita.
   ms.date: 09/01/2020
-  keywords: Datacenter,Standard
-  ms.openlocfilehash: bff4ec8ee63d0221e316da49081ebc964e520966
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: it-IT
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939413"
+  keywords: 'Datacenter,Standard'
 name: Opzione di installazione di Nano Server per Windows Server 2016
-summary: >+
+summary: |+
   L'opzione di installazione di Nano Server per Windows Server 2016 segue i criteri [moderni](/lifecycle/policies/modern) relativi al ciclo di vita.
-
 
   Questo articolo si riferisce alle seguenti edizioni: Datacenter, Standard
 
 products:
-- windows
+  - windows
 policyType: modern-on-prem
 supportDates:
   start: 10/15/2016
   end: 10/09/2018
 releases:
-- version: Original Release
-  startDate: 10/15/2016
-  endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Collegamenti \n* [Informazioni sulla manutenzione](/windows-server/get-started/nano-in-semi-annual-channel)\n* [Domande frequenti sul ciclo di vita - Prodotti Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Datacenter\n* Standard"
+  - version: Original Release
+    startDate: 10/15/2016
+    endDate: 10/09/2018
+content: |
+
+  ## <a name="links"></a>Collegamenti 
+  * [Informazioni sulla manutenzione](/windows-server/get-started/nano-in-semi-annual-channel)
+  * [Domande frequenti sul ciclo di vita - Prodotti Windows](/lifecycle/faq/windows)
+
+
+  ## <a name="editions"></a>Edizioni 
+  * Datacenter
+  * Standard

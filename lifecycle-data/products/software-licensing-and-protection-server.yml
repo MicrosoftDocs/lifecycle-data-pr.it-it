@@ -3,33 +3,32 @@ metadata:
   title: Software Licensing and Protection Server
   description: Software Licensing and Protection Server segue i criteri fissi relativi al ciclo di vita.
   ms.date: 09/10/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 567392e4c49c46a29c7f9f80730542f0ded21608
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: it-IT
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001061"
+  keywords: 'Enterprise,Standard'
 name: Software Licensing and Protection Server
-summary: >
+summary: |
   Software Licensing and Protection Server segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
-
 
   Questo vale per le seguenti edizioni: Enterprise e Standard
 
-
   > [!IMPORTANT]
-
   > A causa della cessione di Software Licensing and Protection Server (SLPS), Microsoft ha supportato SLPS fino al 24 settembre 2009.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/30/2007
   end: 09/24/2009
   extendedEnd: 09/24/2009
 releases:
-- version: Original Release
-  startDate: 12/30/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Collegamenti \n* [Software Licensing and Protection Server (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Enterprise\n* Standard"
+  - version: Original Release
+    startDate: 12/30/2007
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Collegamenti 
+  * [Software Licensing and Protection Server (SLPS)](https://www.microsoft.com/slps)
+
+
+  ## <a name="editions"></a>Edizioni 
+  * Enterprise
+  * Standard
