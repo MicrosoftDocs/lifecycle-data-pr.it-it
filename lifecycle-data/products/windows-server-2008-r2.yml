@@ -2,54 +2,40 @@
 metadata:
   title: Windows Server 2008 R2
   description: Windows Server 2008 R2 segue i Criteri fissi relativi al ciclo di vita.
-  ms.date: 04/23/2021
-  keywords: null
+  ms.date: 08/31/2021
+  keywords: 
+  ms.openlocfilehash: 0457a4bed39d146651578578c7e76dbb60d45ac3
+  ms.sourcegitcommit: b7b46fb942fa16a0d96d486f6b591e470c048157
+  ms.translationtype: HT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 09/21/2021
+  ms.locfileid: "3460572"
 name: Windows Server 2008 R2
-summary: |
-  Windows Server 2008 R2 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
-
-  Questo articolo si riferisce alle seguenti edizioni: Datacenter, Enterprise, HPC Edition, sistemi basati su Itanium, Standard, Web
-
-  > [!IMPORTANT]
-  > Il supporto per questo prodotto è terminato. Vedere le linee guida per la migrazione riportate di seguito. 
+summary: "Windows Server 2008 R2 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.\n\n\nQuesto articolo si riferisce alle seguenti edizioni: Datacenter, Enterprise, HPC Edition, sistemi basati su Itanium, Standard, Web\n\n\n> [!IMPORTANT]\n> Il supporto per questo prodotto è terminato. Vedere le linee guida per la migrazione riportate di seguito. \n\n"
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
   start: 10/22/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-  - version: Extended Security Update Year 3
-    startDate: 01/11/2022
-    endDate: 01/10/2023
-  - version: Extended Security Update Year 2
-    startDate: 01/12/2021
-    endDate: 01/11/2022
-  - version: Extended Security Update Year 1
-    startDate: 01/14/2020
-    endDate: 01/12/2021
-  - version: Service Pack 1
-    startDate: 02/22/2011
-    endDate: 01/14/2020
-  - version: Original Release
-    startDate: 10/22/2009
-    endDate: 04/09/2013
-content: |
-  > [!TIP]
-  > *Gli aggiornamenti della sicurezza estesi (ESU, Extended Security Update) sono disponibili per le edizioni Datacenter, Standard, Enterprise ed Embedded di questo prodotto, per un massimo di altri tre anni dopo la fine del supporto. Per ulteriori informazioni, contattare il partner o il team dell'account Microsoft. 
-
-  ## <a name="links"></a>Collegamenti 
-  * [Indicazioni sulla migrazione](https://aka.ms/AA1ovn4)
-  * [Informazioni sull'aggiornamento del server](/windows-server/upgrade/upgrade-overview)
-  * [Programma Aggiornamenti della sicurezza estesa (ESU)](/lifecycle/faq/extended-security-updates)
-  * [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)
-
-
-  ## <a name="editions"></a>Edizioni 
-  * Datacenter
-  * Enterprise
-  * HPC Edition
-  * Sistemi basati su Itanium
-  * Standard
-  * Web
+- version: Extended Security Update Year 4 (Azure only)
+  startDate: 01/11/2023
+  endDate: 01/09/2024
+- version: Extended Security Update Year 3
+  startDate: 01/12/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2
+  startDate: 01/13/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1
+  startDate: 01/14/2020
+  endDate: 01/12/2021
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "> [!TIP]\n> *Gli aggiornamenti della sicurezza estesi (ESU, Extended Security Update) sono disponibili per le edizioni Datacenter, Standard, Enterprise ed Embedded di questo prodotto, per un massimo di altri tre anni dopo la fine del supporto. Per ulteriori informazioni, contattare il partner o il team dell'account Microsoft. \n\n\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](https://aka.ms/AA1ovn4)\n* [Informazioni sull'aggiornamento del server](/windows-server/upgrade/upgrade-overview)\n* [Programma Aggiornamenti della sicurezza estesa (ESU)](/lifecycle/faq/extended-security-updates)\n* [Criteri relativi ai Service pack](/lifecycle/policies/fixed#service-packs)\n\n\n\n\n## <a name=\"editions\"></a>Edizioni \n* Datacenter\n* Enterprise\n* HPC Edition\n* Sistemi basati su Itanium\n* Standard\n* Web"
