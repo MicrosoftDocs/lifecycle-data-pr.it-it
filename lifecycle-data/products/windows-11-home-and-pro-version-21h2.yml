@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 11 Home e Pro (versione 21H2)
+  description: Windows 11 Home e Pro (versione 21H2) seguono i criteri moderni relativi al ciclo di vita.
+  ms.date: 09/23/2021
+  keywords: 
+  ms.openlocfilehash: ea691bf8b5c3e0a62e8d8d6e4bdc5ec3147faa22
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509401"
+name: Windows 11 Home e Pro (versione 21H2)
+summary: >+
+  Windows 11 Home e Pro (versione 21H2) seguono i Criteri del ciclo di vita [moderni](/lifecycle/policies/modern).
+
+
+
+  Questo articolo si riferisce alle seguenti edizioni: Home, Pro, Pro for Education, Pro for Workstations
+
+
+
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 10/04/2021
+  end: 10/10/2023
+releases:
+- version: Original release (Version 21H2)
+  startDate: 10/04/2021
+  endDate: 10/10/2023
+content: "\n\n## <a name=\"links\"></a>Collegamenti \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-overview)\n* [ Domande frequenti sul ciclo di vita - Windows ](/lifecycle/faq/windows)\n* [Risorse Windows aggiuntive](/windows/resources/)\n* [Windows 11 Enterprise and Education](/lifecycle/products/windows-11-enterprise-and-education)\n* [Windows 11 IoT Enterprise](/lifecycle/products/windows-11-iot-enterprise)\n\n\n\n\n## <a name=\"editions\"></a>Edizioni \n* Home\n* Pro\n* Pro for Education\n* Pro for Workstations"
