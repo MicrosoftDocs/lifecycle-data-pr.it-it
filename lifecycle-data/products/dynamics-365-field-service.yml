@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Settore servizi di Dynamics 365.
+  description: Il Settore servizi per Dynamics 365 segue i Criteri moderni relativi al ciclo di vita.
+  ms.date: 2022/03/11
+  keywords: Xamarin, field service mobile, mobile
+  ms.openlocfilehash: 76b0b6832ddeb85a55d84e377c8d26482e7eb87d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156773"
+name: Settore servizi di Dynamics 365.
+summary: >+
+  Il Settore servizi per Dynamics 365 segue i Criteri [moderni](/lifecycle/policies/modern) relativi al ciclo di vita.
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > Tenere presente che l'app legacy Field Service Mobile (Xamarin) verrà ritirata il 30 giugno 2022. Prima di tale data, i clienti devono eseguire la migrazione all'app mobile [Field Service (Dynamics 365)](https://docs.microsoft.com/dynamics365/field-service/mobile-2020-power-platform). Per ulteriori informazioni, consultare [Domande frequenti sul termine del supporto di Field Service Mobile Xamarin](https://docs.microsoft.com/dynamics365/field-service/activate-fs-mobile-app-license#faqs).
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 2016-05-02T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2016-05-02T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>Collegamenti \n* [Informazioni sul prodotto](/dynamics365/field-service/overview)\n* [Informazioni sulla migrazione delle app per dispositivi mobili di Dynamics 365 Field Service](https://aka.ms/fsmobile-adoption)"

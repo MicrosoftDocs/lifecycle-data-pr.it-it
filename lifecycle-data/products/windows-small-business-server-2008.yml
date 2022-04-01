@@ -3,36 +3,23 @@ metadata:
   title: Windows Small Business Server 2008
   description: Windows Small Business Server 2008 segue i Criteri fissi relativi al ciclo di vita.
   ms.date: 09/01/2020
-  keywords: 'Premium,Standard'
+  keywords: Premium,Standard
+  ms.openlocfilehash: 1f482af63ad9c63c40e628fba82ca5dbaf330e82
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4123033"
 name: Windows Small Business Server 2008
-summary: |
-  Windows Small Business Server 2008 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita. 
-
-  Questo articolo si riferisce alle seguenti edizioni: Premium, Standard
-
-  > [!IMPORTANT]
-  > Il supporto per questo prodotto è terminato. 
-
-  La data di supporto per questo pacchetto di prodotti è determinata dai rispettivi cicli di vita dei singoli prodotti componenti. Si prega di esaminare il ciclo di vita del singolo prodotto componente per determinare la durata del supporto.
+summary: "Windows Small Business Server 2008 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita. \n\nQuesto articolo si riferisce alle seguenti edizioni: Premium, Standard\n\n> [!IMPORTANT]\n> Il supporto per questo prodotto è terminato. \n\nLa data di supporto per questo pacchetto di prodotti è determinata dai rispettivi cicli di vita dei singoli prodotti componenti. Si prega di esaminare il ciclo di vita del singolo prodotto componente per determinare la durata del supporto.\n"
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 11/21/2008
-  extendedEnd: 01/14/2020
+  start: 2008-11-21T00:00:00.000-08:00
+  extendedEnd: 2020-01-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 11/21/2008
-    endDate: 01/14/2020
-content: |
-
-  ## <a name="links"></a>Collegamenti 
-  * [Indicazioni sulla migrazione](https://aka.ms/AA1ovn4)
-  * [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)
-  * [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)
-  * [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)
-
-
-  ## <a name="editions"></a>Edizioni 
-  * Premium
-  * Standard
+- version: Original Release
+  startDate: 2008-11-21T00:00:00.000-08:00
+  endDate: 2020-01-14T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Indicazioni sulla migrazione](https://aka.ms/AA1ovn4)\n* [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)\n* [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)\n* [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Premium\n* Standard"

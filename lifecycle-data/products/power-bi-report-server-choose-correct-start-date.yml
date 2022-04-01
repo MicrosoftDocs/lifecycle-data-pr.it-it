@@ -3,20 +3,23 @@ metadata:
   title: Server di Report di Power BI
   description: Server di Report di Power BI segue i criteri moderni relativi al ciclo di vita.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 242f5dcd4d8e262c34c8468b004a84ee1ed26e47
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4143568"
 name: Server di Report di Power BI
-summary: |+
+summary: >+
   Server di Report di Power BI segue i criteri [moderni](/lifecycle/policies/modern) relativi al ciclo di vita.
 
 
 products:
-  - sql-server
+- sql-server
 policyType: modern-online
 supportDates:
-  start: 06/12/2017
+  start: 2017-06-12T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 06/12/2017
-content: |+
-
-  ## <a name="links"></a>Collegamenti 
-  * [Informazioni sulla manutenzione](https://powerbi.microsoft.com/documentation/reportserver-support-timeline/)
+- version: Original Release
+  startDate: 2017-06-12T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Informazioni sulla manutenzione](https://powerbi.microsoft.com/documentation/reportserver-support-timeline/)"

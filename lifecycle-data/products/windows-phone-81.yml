@@ -3,27 +3,22 @@ metadata:
   title: Windows Phone 8.1
   description: Windows Phone 8.1 segue i Criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 29084ce2a70a665cf844ba45a7704878133677b2
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: it-IT
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4118001"
 name: Windows Phone 8.1
-summary: |
-  Windows Phone 8.1 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita. 
-
-
-  > [!IMPORTANT]
-  > Il supporto per questo prodotto è terminato.
+summary: "Windows Phone 8.1 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita. \n\n\n> [!IMPORTANT]\n> Il supporto per questo prodotto è terminato.\n"
 products:
-  - windows
+- windows
 policyType: fixed-mainstream-only
 supportDates:
-  start: 06/24/2014
-  end: 07/11/2017
+  start: 2014-06-24T00:00:00.000-08:00
+  end: 2017-07-11T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 06/24/2014
-    endDate: 07/11/2017
-content: |+
-
-  ## <a name="links"></a>Collegamenti 
-  * [Domande frequenti su Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)
-
-  > [!NOTE]
-  > Microsoft renderà disponibili gli aggiornamenti per il sistema operativo, inclusi gli aggiornamenti della sicurezza, per un periodo di cinque anni dopo la data di inizio del ciclo di vita. Questi aggiornamenti saranno incrementali e ogni aggiornamento si baserà su quello precedente. I clienti devono installare ogni aggiornamento rilasciato per continuare a usufruire del supporto. La distribuzione di questi aggiornamenti incrementali può essere controllata dall'operatore di telefonia mobile o dal produttore del telefono da cui è stato acquistato il telefono, e l'installazione richiederà che il telefono disponga di aggiornamenti precedenti. La disponibilità degli aggiornamenti varia anche in base a paese, area geografica e funzionalità hardware.
+- version: Original Release
+  startDate: 2014-06-24T00:00:00.000-08:00
+  endDate: 2017-07-11T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Collegamenti \n* [Domande frequenti su Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft renderà disponibili gli aggiornamenti per il sistema operativo, inclusi gli aggiornamenti della sicurezza, per un periodo di cinque anni dopo la data di inizio del ciclo di vita. Questi aggiornamenti saranno incrementali e ogni aggiornamento si baserà su quello precedente. I clienti devono installare ogni aggiornamento rilasciato per continuare a usufruire del supporto. La distribuzione di questi aggiornamenti incrementali può essere controllata dall'operatore di telefonia mobile o dal produttore del telefono da cui è stato acquistato il telefono, e l'installazione richiederà che il telefono disponga di aggiornamenti precedenti. La disponibilità degli aggiornamenti varia anche in base a paese, area geografica e funzionalità hardware."

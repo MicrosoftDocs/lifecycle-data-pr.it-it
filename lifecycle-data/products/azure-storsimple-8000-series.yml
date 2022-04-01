@@ -3,12 +3,12 @@ metadata:
   title: Azure StorSimple serie 8000
   description: Azure StorSimple 8000 Series segue i criteri fissi relativi al ciclo di vita.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 7e58c467d5a29396c35cb70b1a7b93b0eaf2ce367a2a3f855aa4e47f73520ba1
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: a436edfb6d5eb7518357ea7ecfea8a86d7039573
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2492486"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4147046"
 name: Azure StorSimple serie 8000
 summary: >+
   Azure StorSimple 8000 Series segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
@@ -18,10 +18,10 @@ products:
 - azure
 policyType: fixed
 supportDates:
-  start: 11/01/2014
-  end: 07/01/2020
-  extendedEnd: 12/31/2022
+  start: 2014-11-01T00:00:00.000-08:00
+  end: 2020-07-01T22:59:59.999-08:00
+  extendedEnd: 2022-12-31T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 11/01/2014
+  startDate: 2014-11-01T00:00:00.000-08:00
 content: "\n## <a name=\"links\"></a>Collegamenti \n* [Supporto per la soluzione StorSimple](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [Indicazioni sulla migrazione](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> Il supporto per la serie 8000 di Azure StorSimple viene esteso come indicato per fornire ai clienti la linea temporale standard del ciclo di vita. Il supporto esteso include solo la sostituzione hardware e gli aggiornamenti di sicurezza."
