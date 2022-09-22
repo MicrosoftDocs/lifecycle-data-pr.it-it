@@ -2,20 +2,27 @@
 metadata:
   title: Windows 8.1
   description: Windows 8.1 segue i criteri fissi relativi al ciclo di vita.
-  ms.date: 09/10/2020
-  keywords: Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL
-  ms.openlocfilehash: a3447c6de9bea75452ae7ebf216b401eaab71833
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 09/02/2022
+  keywords: 
+  ms.openlocfilehash: 2dc2e2b41fbb73cbd8456da3fa472c2289ef5c65
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4123736"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518457"
 name: Windows 8.1
 summary: >+
   Windows 8.1 segue i criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita.
 
 
+
   Questo articolo si riferisce alle seguenti edizioni: Enterprise, Enterprise N, N, Pro con Media Center, Professional, Professional N, SL
+
+
+
+  > [!IMPORTANT]
+
+  > Ricordiamo che Windows 8.1 raggiungerà la fine del supporto il 10 gennaio 2023. Dopo tale data, questo prodotto non riceverà più aggiornamenti di sicurezza e non di sicurezza, correzioni di bug, supporto tecnico o aggiornamenti online dei contenuti tecnici.  Se i dispositivi non soddisfano i requisiti tecnici per eseguire una versione più recente di Windows, Microsoft consiglia di sostituire il dispositivo con uno che supporti Windows 11. Per ulteriori informazioni, andare [qui](https://docs.microsoft.com/lifecycle/announcements/windows-8-1-end-support-january-2023).
 
 products:
 - windows
@@ -28,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 2013-11-13T00:00:00.000-08:00
   endDate: 2023-01-10T22:59:59.999-08:00
-content: "\n## <a name=\"links\"></a>Collegamenti \n* [Domande frequenti sul ciclo di vita - Prodotti Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Edizioni \n* Enterprise\n* Enterprise N\n* N\n* Pro con Media Center\n* Professional\n* Professional N\n* SL"
+content: "\n\n## <a name=\"links\"></a>Collegamenti \n* [Domande frequenti sul ciclo di vita - Prodotti Windows](/lifecycle/faq/windows)\n* [Domande frequenti di tipo tecnico per Windows 8.1](https://prod.support.services.microsoft.com/windows/windows-8-1-support-will-end-on-january-10-2023-3cfd4cde-f611-496a-8057-923fba401e93?preview=true)\n\n\n\n\n## <a name=\"editions\"></a>Edizioni \n* Enterprise\n* Enterprise N\n* N\n* Pro con Media Center\n* Professional\n* Professional N\n* SL"

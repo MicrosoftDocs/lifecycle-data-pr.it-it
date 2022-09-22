@@ -2,14 +2,14 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11 segue i criteri relativi al ciclo di vita dei componenti.
-  ms.date: 01/25/2022
-  keywords: IE
-  ms.openlocfilehash: 5086bcdf51ebfb0315c4f4660193adab3be31a4e
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 2022/05/19
+  keywords: browser, IE, ie11
+  ms.openlocfilehash: f1a0ee829ae28cfd4b3b580a9c3d296bd822b4a5
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4114375"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518605"
 name: Internet Explorer 11
 summary: >+
   Internet Explorer 11 segue i criteri relativi al ciclo di vita dei [componenti](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
@@ -20,7 +20,7 @@ summary: >+
 
   > [!IMPORTANT]
 
-  > L'applicazione desktop Internet Explorer (IE) 11 terminerà il supporto per alcuni canali semestrali di Windows 10 a partire dal 15 giugno 2022. I clienti sono invitati a passare a Microsoft Edge con modalità IE. La modalità IE offre la compatibilità con le versioni precedenti e sarà supportata almeno fino al 2029. Inoltre, Microsoft invierà una notifica un anno prima del ritiro della modalità IE.  [Qui](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) è disponibile un elenco dei sistemi operativi supportati per Internet Explorer, comprese le versioni interessate da questo annuncio.
+  > Il supporto dell'applicazione desktop Internet Explorer (IE) 11 di Windows 10 canale semestrale è terminato il 15 giugno 2022. I clienti sono invitati a passare a Microsoft Edge con modalità IE. La modalità IE offre la compatibilità con le versioni precedenti e sarà supportata almeno fino al 2029. Inoltre, Microsoft invierà una notifica un anno prima del ritiro della modalità IE.  [Qui](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) è disponibile un elenco dei sistemi operativi supportati per Internet Explorer, comprese le versioni interessate da questo annuncio.
 
 products:
 - internet-explorer

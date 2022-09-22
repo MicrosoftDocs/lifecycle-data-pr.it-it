@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2013
   description: Visual Studio 2013 segue i Criteri fissi relativi al ciclo di vita.
-  ms.date: 10/11/2021
+  ms.date: 2022/04/14
   keywords: 
-  ms.openlocfilehash: 74908b552844ac27651393960fa567b4971842b6
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: 26531cc6c88e5781b92affe65d38caf6f78b63d4
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: it-IT
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4142791"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4516452"
 name: Visual Studio 2013
 summary: "Visual Studio 2013 segue i Criteri [fissi](/lifecycle/policies/fixed) relativi al ciclo di vita. \n\n\nQuesto articolo si riferisce alle seguenti edizioni: Community, Enterprise, Express per Windows, Express per Windows Desktop, Premium, Professional, Release Management, Test Professional, Ultimate\n\n\n\n"
 products:
@@ -25,5 +25,5 @@ releases:
   endDate: 2024-04-09T22:59:59.999-08:00
 - version: Original Release
   startDate: 2014-01-15T00:00:00.000-08:00
-  endDate: 2024-04-09T22:59:59.999-08:00
+  endDate: 2016-10-11T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>Collegamenti \n* [Informazioni sulla manutenzione](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> Le versioni di Visual Studio 2013 dei seguenti componenti vengono fornite e supportate come parte del ciclo di vita di Visual Studio 2013: Agenti, Agente di raccolta IntelliTrace, Modeling SDK, Libreria MFC multibyte, Strumenti remoti, SDK, Shell (integrato), Shell (isolato), Team Explorer, Visual C Ridistribuibile, Estensioni Web Tools\n\n\n## <a name=\"editions\"></a>Edizioni \n* Community\n* Express per il Web\n* Express per Windows\n* Express per Windows Desktop\n* Premium\n* Professional\n* Release Management\n* Test Professional\n* Ultimate"
